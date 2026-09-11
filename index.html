@@ -1,0 +1,660 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Femture</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Poppins:wght@700;800&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --ink:#1c1530;
+    --paper:#faf7fb;
+    --paper-dim:#f1ecf4;
+    --violet:#6a3fd6;
+    --violet-deep:#4c2aa8;
+    --magenta:#d81e73;
+    --magenta-deep:#a8135a;
+    --teal:#1fb8a8;
+    --blue:#2aa8e6;
+    --line:#e4dbeb;
+    --card:#ffffff;
+    --muted:#726985;
+    --night:#150f28;
+    --night-2:#1e1740;
+    --on-night:#f4eff9;
+    --on-night-muted:#b3a6c9;
+  }
+
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#f4eff9;
+      --paper:#120d22;
+      --paper-dim:#180f28;
+      --card:#1c1436;
+      --line:#332a52;
+      --muted:#a99cc4;
+      --night:#0c0818;
+      --night-2:#150f28;
+      --on-night:#f4eff9;
+      --on-night-muted:#b3a6c9;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#f4eff9;
+    --paper:#120d22;
+    --paper-dim:#180f28;
+    --card:#1c1436;
+    --line:#332a52;
+    --muted:#a99cc4;
+    --night:#0c0818;
+    --night-2:#150f28;
+    --on-night:#f4eff9;
+    --on-night-muted:#b3a6c9;
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Work Sans", ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+    padding-inline:0;
+  }
+  img{max-width:100%;}
+  [hidden]{display:none!important;}
+
+  h1,h2,h3{
+    font-family:"Poppins", ui-sans-serif, system-ui, sans-serif;
+    font-weight:700;
+    letter-spacing:-0.015em;
+    line-height:1.1;
+    text-wrap:balance;
+    margin:0;
+  }
+  .eyebrow{
+    font-family:"Space Mono", ui-monospace, monospace;
+    font-size:0.72rem;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+  }
+  p{line-height:1.6;}
+  a{color:inherit;}
+
+  .wrap{
+    max-width:1180px;
+    margin-inline:auto;
+    padding-inline:24px;
+  }
+
+  /* ---------- NAV ---------- */
+  nav{
+    position:sticky; top:0; z-index:50;
+    background:color-mix(in srgb, var(--night) 88%, transparent);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid rgba(255,255,255,0.08);
+  }
+  .nav-inner{
+    max-width:1180px;
+    margin-inline:auto;
+    padding:16px 24px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:20px;
+  }
+  .wordmark{
+    font-family:"Poppins", ui-sans-serif, system-ui, sans-serif;
+    font-weight:800;
+    font-size:1.4rem;
+    color:var(--on-night);
+    letter-spacing:-0.02em;
+    text-decoration:none;
+  }
+  .navlinks{
+    display:flex;
+    gap:28px;
+    list-style:none;
+    margin:0; padding:0;
+    font-size:0.92rem;
+  }
+  .navlinks a{
+    text-decoration:none;
+    color:var(--on-night-muted);
+    transition:color .15s ease;
+  }
+  .navlinks a:hover{color:var(--on-night);}
+  .nav-cta{
+    display:inline-flex;
+    align-items:center;
+    padding:9px 18px;
+    border-radius:999px;
+    background:linear-gradient(100deg, var(--magenta), var(--violet));
+    color:#fff;
+    text-decoration:none;
+    font-size:0.88rem;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .nav-toggle{display:none;}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    background:var(--night);
+    color:var(--on-night);
+    overflow:hidden;
+    padding-block:96px 84px;
+  }
+  .aurora{
+    position:absolute;
+    inset:-20% -10% -10% -10%;
+    z-index:0;
+    filter:blur(60px);
+    opacity:0.75;
+  }
+  .aurora span{
+    position:absolute;
+    border-radius:50%;
+  }
+  .aurora .b1{width:46vw;height:46vw;left:-8vw;top:-6vw;background:radial-gradient(circle at 30% 30%, var(--magenta), transparent 70%);animation:drift1 22s ease-in-out infinite;}
+  .aurora .b2{width:42vw;height:42vw;right:-10vw;top:2vw;background:radial-gradient(circle at 60% 40%, var(--violet), transparent 70%);animation:drift2 26s ease-in-out infinite;}
+  .aurora .b3{width:38vw;height:38vw;left:22vw;bottom:-14vw;background:radial-gradient(circle at 50% 50%, var(--teal), transparent 72%);animation:drift3 30s ease-in-out infinite;}
+  @keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(3vw,4vw)}}
+  @keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(-4vw,3vw)}}
+  @keyframes drift3{0%,100%{transform:translate(0,0)}50%{transform:translate(2vw,-3vw)}}
+  @media (prefers-reduced-motion: reduce){
+    .aurora span{animation:none;}
+    html{scroll-behavior:auto;}
+  }
+  .hero-inner{position:relative;z-index:1;}
+  .hero .eyebrow{color:#e7b7d2;margin-bottom:18px;}
+
+  .wordplay{
+    white-space:nowrap;
+    margin-bottom:22px;
+    font-family:"Poppins", ui-sans-serif, system-ui, sans-serif;
+    font-weight:800;
+    font-size:clamp(2rem, 6.4vw, 4.4rem);
+    letter-spacing:-0.02em;
+    color:var(--on-night);
+    transform:scale(1);
+    transform-origin:left center;
+  }
+  .wordplay.wp-pulse{animation:wp-pulse-kf .5s ease-out;}
+  @keyframes wp-pulse-kf{
+    0%{transform:scale(1);}
+    50%{transform:scale(1.045);}
+    100%{transform:scale(1);}
+  }
+  .wp-fem{
+    display:inline-block;
+    vertical-align:top;
+    margin-right:0.5em;
+    transition:margin-right .45s ease;
+    background:linear-gradient(100deg, var(--magenta), var(--violet));
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+  }
+  .wp-fem-suffix{
+    color:var(--on-night-muted);
+    transition:opacity .12s ease;
+  }
+  .wp-ture-prefix{
+    display:inline-block;
+    color:var(--on-night);
+    transition:opacity .12s ease;
+  }
+  .wp-ture{
+    display:inline-block;
+    vertical-align:top;
+    background:linear-gradient(100deg, var(--violet), var(--blue) 55%, var(--teal));
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+  }
+
+  .hero h1{
+    font-size:clamp(2.3rem, 5.4vw, 4.1rem);
+    max-width:16ch;
+  }
+  .hero-sub{
+    margin-top:26px;
+    max-width:56ch;
+    font-size:1.1rem;
+    color:var(--on-night-muted);
+  }
+  .hero-ctas{
+    margin-top:38px;
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+  }
+  .btn{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    padding:13px 24px;
+    border-radius:999px;
+    font-weight:600;
+    font-size:0.95rem;
+    text-decoration:none;
+    border:1px solid transparent;
+  }
+  .btn-primary{background:#fff;color:var(--night);}
+  .btn-ghost{border-color:rgba(255,255,255,0.35);color:var(--on-night);}
+  .btn-primary:hover{background:#f0e6f7;}
+  .btn-ghost:hover{border-color:#fff;}
+
+  .hero-sign{
+    margin-top:52px;
+    padding-left:26px;
+    border-left:3px solid var(--magenta);
+    font-family:"Fraunces", serif;
+    font-style:italic;
+    font-weight:500;
+    font-size:clamp(1.2rem, 2.4vw, 1.6rem);
+    line-height:1.42;
+    color:var(--on-night);
+    max-width:40ch;
+  }
+
+  /* ---------- CREDENTIALS STRIP ---------- */
+  .creds{
+    background:var(--night-2);
+    color:var(--on-night);
+    border-top:1px solid rgba(255,255,255,0.08);
+    border-bottom:1px solid rgba(255,255,255,0.08);
+  }
+  .creds-inner{
+    max-width:1180px;
+    margin-inline:auto;
+    padding:34px 24px;
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap:24px;
+  }
+  .cred-item{font-size:0.94rem;line-height:1.4;}
+  .cred-item strong{
+    display:block;
+    font-family:"Fraunces", serif;
+    font-size:1.02rem;
+    font-weight:500;
+    margin-bottom:3px;
+    color:#fff;
+  }
+  .cred-item span{color:var(--on-night-muted);font-size:0.86rem;}
+
+  /* ---------- SECTION SHELL ---------- */
+  section{padding-block:88px;}
+  .section-head{
+    max-width:64ch;
+    margin-bottom:52px;
+  }
+  .section-head .eyebrow{color:var(--magenta-deep);margin-bottom:14px;}
+  .section-head h2{font-size:clamp(1.7rem, 3.4vw, 2.5rem);}
+  .section-head p{margin-top:16px;color:var(--muted);font-size:1.04rem;max-width:52ch;}
+
+  /* ---------- TWO TRACKS ---------- */
+  .tracks{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:28px;
+  }
+  .track{
+    border-radius:22px;
+    padding:38px 34px 34px;
+    background:var(--card);
+    border:1px solid var(--line);
+  }
+  .track-empresas{box-shadow:inset 4px 0 0 0 var(--violet);}
+  .track-profissionais{box-shadow:inset 4px 0 0 0 var(--magenta);}
+  .track-tag{
+    font-family:"Space Mono", monospace;
+    font-size:0.7rem;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    padding:5px 11px;
+    border-radius:999px;
+    display:inline-block;
+    margin-bottom:18px;
+  }
+  .track-empresas .track-tag{background:color-mix(in srgb, var(--violet) 16%, transparent);color:var(--violet-deep);}
+  .track-profissionais .track-tag{background:color-mix(in srgb, var(--magenta) 14%, transparent);color:var(--magenta-deep);}
+  .track h3{font-size:1.55rem;margin-bottom:10px;}
+  .track > p{color:var(--muted);margin-bottom:28px;font-size:0.98rem;}
+
+  .service-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:20px;}
+  .service{
+    display:grid;
+    grid-template-columns:auto 1fr;
+    gap:14px;
+    padding-bottom:20px;
+    border-bottom:1px solid var(--line);
+  }
+  .service:last-child{border-bottom:none;padding-bottom:0;}
+  .service-dot{
+    width:8px;height:8px;border-radius:50%;
+    margin-top:7px;
+  }
+  .track-empresas .service-dot{background:var(--violet);}
+  .track-profissionais .service-dot{background:var(--magenta);}
+  .service h4{
+    margin:0 0 4px;
+    font-family:"Work Sans", sans-serif;
+    font-weight:600;
+    font-size:1rem;
+    display:flex;
+    align-items:center;
+    gap:9px;
+    flex-wrap:wrap;
+  }
+  .service p{margin:0;color:var(--muted);font-size:0.92rem;}
+  .badge-new{
+    font-family:"Space Mono", monospace;
+    font-size:0.62rem;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    padding:2px 8px;
+    border-radius:999px;
+    background:var(--teal);
+    color:#04231f;
+    font-weight:700;
+  }
+
+  /* ---------- PROCESS ---------- */
+  .process{
+    background:var(--paper-dim);
+  }
+  .steps{
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap:28px;
+  }
+  .step{position:relative;padding-top:8px;}
+  .step-num{
+    font-family:"Fraunces", serif;
+    font-style:italic;
+    font-size:2.6rem;
+    color:var(--line);
+    display:block;
+    margin-bottom:6px;
+  }
+  .step h3{font-size:1.2rem;margin-bottom:10px;}
+  .step p{color:var(--muted);font-size:0.94rem;}
+
+  /* ---------- CTA BAND ---------- */
+  .cta-band{
+    background:var(--night);
+    color:var(--on-night);
+    text-align:left;
+  }
+  .cta-band .wrap{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:36px;
+    flex-wrap:wrap;
+  }
+  .cta-band h2{font-size:clamp(1.6rem,3vw,2.2rem);max-width:22ch;color:#fff;}
+  .cta-band p{color:var(--on-night-muted);margin-top:12px;max-width:44ch;}
+
+  /* ---------- FOOTER ---------- */
+  footer{
+    background:var(--night-2);
+    color:var(--on-night-muted);
+    padding-block:48px 32px;
+    border-top:1px solid rgba(255,255,255,0.08);
+  }
+  .foot-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:32px;
+    flex-wrap:wrap;
+    padding-bottom:32px;
+    border-bottom:1px solid rgba(255,255,255,0.08);
+  }
+  .foot-word{
+    font-family:"Poppins", ui-sans-serif, system-ui, sans-serif;
+    font-weight:800;
+    font-size:1.35rem;
+    letter-spacing:-0.02em;
+    color:#fff;
+  }
+  .foot-slogan{margin-top:8px;font-size:0.9rem;max-width:34ch;}
+  .foot-contact{font-size:0.92rem;display:flex;flex-direction:column;gap:6px;align-items:flex-end;text-align:right;}
+  .foot-contact a{text-decoration:none;}
+  .foot-contact a:hover{color:#fff;}
+  .foot-bottom{
+    padding-top:22px;
+    display:flex;
+    justify-content:space-between;
+    font-size:0.8rem;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+
+  @media (max-width:860px){
+    .creds-inner{grid-template-columns:repeat(2,1fr);}
+    .tracks{grid-template-columns:1fr;}
+    .steps{grid-template-columns:1fr;}
+    .navlinks{display:none;}
+    .foot-contact{align-items:flex-start;text-align:left;}
+  }
+</style>
+</head>
+<body>
+<nav>
+  <div class="nav-inner">
+    <a href="#top" class="wordmark">femture</a>
+    <ul class="navlinks">
+      <li><a href="#empresas">Empresas</a></li>
+      <li><a href="#profissionais">Profissionais</a></li>
+      <li><a href="#processo">Como funciona</a></li>
+      <li><a href="#sobre">Sobre</a></li>
+    </ul>
+    <a class="nav-cta" href="https://wa.me/5511961752244?text=Ol%C3%A1%2C%20quero%20agendar%20uma%20conversa%20com%20a%20Femture" target="_blank" rel="noopener">Agende uma conversa</a>
+  </div>
+</nav>
+
+<main id="top">
+  <section class="hero">
+    <div class="aurora"><span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+    <div class="wrap hero-inner">
+      <div class="wordplay" id="wordplay" aria-hidden="true">
+        <span class="wp-fem" id="wpFem">fem<span class="wp-fem-suffix" id="wpFemSuffix">ale</span></span><span class="wp-ture-prefix" id="wpTurePrefix">ven</span><span class="wp-ture">ture</span>
+      </div>
+      <h1>Construindo o futuro do bem-estar e da saÃºde da mulher.</h1>
+      <p class="hero-sub">Somos uma consultoria em inovaÃ§Ã£o com um recorte especÃ­fico no mercado feminino. Atendemos empresas que querem construir o prÃ³ximo produto e profissionais que querem construir a prÃ³pria trajetÃ³ria, com visÃ£o orientada Ã  lideranÃ§a e ao protagonismo.</p>
+      <div class="hero-ctas">
+        <a class="btn btn-primary" href="#empresas">Sou uma empresa</a>
+        <a class="btn btn-ghost" href="#profissionais">Sou profissional</a>
+      </div>
+      <p class="hero-sign">NÃ£o nos contentamos em observar o que vem por aÃ­. Desenhamos, antecipamos e construÃ­mos futuros possÃ­veis.</p>
+    </div>
+  </section>
+
+  <section id="tracks-intro">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Duas frentes, um propÃ³sito</p>
+        <h2>Um mesmo olhar, dois pontos de partida.</h2>
+        <p>Toda empresa que quer inovar no mercado feminino Ã©, no fundo, construÃ­da por pessoas que tambÃ©m estÃ£o construindo a prÃ³pria carreira. Atendemos os dois lados dessa equaÃ§Ã£o, com metodologia de design e inovaÃ§Ã£o em ambos. Profissionais multipotenciais, com mÃºltiplos interesses e caminhos nÃ£o lineares, sÃ£o justamente o tipo de talento de que empresas inovadoras precisam para navegar cenÃ¡rios incertos.</p>
+      </div>
+
+      <div class="tracks">
+        <article class="track track-empresas" id="empresas">
+          <span class="track-tag">Para empresas</span>
+          <h3>NegÃ³cios e produtos para o mercado feminino</h3>
+          <p>EstruturaÃ§Ã£o, pesquisa e execuÃ§Ã£o para empresas que querem construir ou expandir sua atuaÃ§Ã£o em bem-estar e saÃºde da mulher.</p>
+          <ul class="service-list">
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Venture building</h4><p>Modelo de negÃ³cio, roadmap de produto e business case, do zero Ã  validaÃ§Ã£o de mercado.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Foresight de mercado feminino</h4><p>Pesquisa e cenÃ¡rios para antecipar tendÃªncias em bem-estar e saÃºde da mulher antes da concorrÃªncia.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Design thinking e design de serviÃ§o</h4><p>Redesenho de produtos e jornadas com metodologia centrada na usuÃ¡ria.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Workshops in company</h4><p>ImersÃµes sob medida em inovaÃ§Ã£o e mercado feminino para o time interno.</p></div>
+            </li>
+          </ul>
+        </article>
+
+        <article class="track track-profissionais" id="profissionais">
+          <span class="track-tag">Para profissionais mulheres</span>
+          <h3>Carreira e empreendedorismo</h3>
+          <p>Mentoria individual para mulheres lÃ­deres, em transiÃ§Ã£o de carreira ou construindo o prÃ³prio negÃ³cio no mercado feminino.</p>
+          <ul class="service-list">
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Mentoria de carreira e lideranÃ§a</h4><p>SessÃµes individuais para mulheres em posiÃ§Ãµes de lideranÃ§a ou em transiÃ§Ã£o de carreira.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Mapeamento de carreira multipotencial</h4><p>Nossa metodologia prÃ³pria para integrar talentos e interesses mÃºltiplos e desenhar um caminho profissional nÃ£o linear, sem abrir mÃ£o de nenhuma parte de quem vocÃª Ã©.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Mentoria para empreendedoras</h4><p>ValidaÃ§Ã£o de ideia, modelo de negÃ³cio e primeiros passos para quem quer empreender no mercado feminino, incluindo preparaÃ§Ã£o para captaÃ§Ã£o com investidores e orientaÃ§Ã£o prÃ¡tica para criar protÃ³tipos digitais com IA, sem depender de um time tÃ©cnico.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>Mentoria em grupo</h4><p>Turmas pequenas de mulheres com desafios parecidos, combinando orientaÃ§Ã£o individual com troca entre pares.</p></div>
+            </li>
+            <li class="service"><span class="service-dot"></span>
+              <div><h4>SessÃ£o de diagnÃ³stico Femture</h4><p>Uma conversa inicial de 45 minutos para entender onde vocÃª estÃ¡ e o que faz sentido como prÃ³ximo passo.</p></div>
+            </li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="process" id="processo">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Como funciona</p>
+        <h2>Um processo, trÃªs movimentos.</h2>
+        <p>A mesma lÃ³gica de design e inovaÃ§Ã£o que estrutura os projetos com empresas guia tambÃ©m as mentorias individuais, em ritmo e profundidade ajustados a cada caso.</p>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <span class="step-num">01</span>
+          <h3>DiagnÃ³stico</h3>
+          <p>Entendimento do contexto: negÃ³cio, mercado ou trajetÃ³ria de carreira. Onde vocÃª estÃ¡ e o que estÃ¡ em jogo.</p>
+        </div>
+        <div class="step">
+          <span class="step-num">02</span>
+          <h3>Desenho</h3>
+          <p>ConstruÃ§Ã£o de hipÃ³teses, roadmap ou plano de aÃ§Ã£o, com metodologia de design thinking e foresight aplicado.</p>
+        </div>
+        <div class="step">
+          <span class="step-num">03</span>
+          <h3>ConstruÃ§Ã£o</h3>
+          <p>ExecuÃ§Ã£o: protÃ³tipo, produto, pitch ou prÃ³ximo passo de carreira, com acompanhamento atÃ© sair do papel.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="sobre">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Sobre a Femture</p>
+        <h2>Uma trajetÃ³ria construÃ­da no mercado feminino, nÃ£o sÃ³ sobre ele.</h2>
+        <p>Nascemos da trajetÃ³ria de StÃ©fani Paranhos, multipotencial premiada, doutora em Empreendedorismo e InovaÃ§Ã£o pela FEA/USP, a 1Âª Doutora em Femtechs do Mundo. Uma trajetÃ³ria que inclui a fundaÃ§Ã£o da Vibre, Mulher!, primeira marca brasileira de bem-estar sexual prÃ³-mulher, e da spin-off Iara SaÃºde, plataforma de saÃºde da mulher com inteligÃªncia artificial. Inclui tambÃ©m passagens pela agÃªncia de inovaÃ§Ã£o da universidade mais prestigiada da AmÃ©rica Latina e pela maior instituiÃ§Ã£o de apoio ao empreendedorismo do Brasil, sempre no mesmo lugar: no meio do caminho entre ciÃªncia, negÃ³cio e gente.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band" id="contato">
+    <div class="wrap">
+      <div>
+        <h2>Vamos construir o prÃ³ximo passo, seu ou da sua empresa.</h2>
+        <p>Conte um pouco do desafio e retornamos com os prÃ³ximos passos.</p>
+      </div>
+      <a class="btn btn-primary" href="mailto:hello@femture.co">Escrever para hello@femture.co</a>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-top">
+      <div>
+        <div class="foot-word">femture</div>
+        <p class="foot-slogan">Building the future of women's wellbeing and health.</p>
+      </div>
+      <div class="foot-contact">
+        <a href="mailto:hello@femture.co">hello@femture.co</a>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <span>Â© 2026 Femture. Todos os direitos reservados.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var femWords = ["ale","initude","tech"];
+  var tureWords = ["ven","fu","cul"];
+  var femEl = document.getElementById('wpFemSuffix');
+  var tureEl = document.getElementById('wpTurePrefix');
+  var femBlock = document.getElementById('wpFem');
+  var wordplay = document.getElementById('wordplay');
+  if(!femEl || !tureEl || !femBlock || !wordplay) return;
+
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduce){
+    femEl.style.display = 'none';
+    tureEl.style.display = 'none';
+    femBlock.style.marginRight = '0';
+    return;
+  }
+
+  var i = 0;
+  var steps = 7;
+  var delay = 240;
+
+  function swap(){
+    femEl.style.opacity = '0';
+    tureEl.style.opacity = '0';
+    setTimeout(function(){
+      femEl.textContent = femWords[i % femWords.length];
+      tureEl.textContent = tureWords[i % tureWords.length];
+      femEl.style.opacity = '1';
+      tureEl.style.opacity = '1';
+      i++;
+      if(i < steps){
+        setTimeout(swap, delay);
+      } else {
+        setTimeout(finish, delay);
+      }
+    }, 60);
+  }
+
+  function finish(){
+    femEl.style.opacity = '0';
+    tureEl.style.opacity = '0';
+    setTimeout(function(){
+      femEl.style.display = 'none';
+      tureEl.style.display = 'none';
+      femBlock.style.marginRight = '0';
+      setTimeout(function(){
+        wordplay.classList.add('wp-pulse');
+      }, 460);
+    }, 140);
+  }
+
+  setTimeout(swap, 500);
+})();
+</script>
+
+</body>
+</html>
