@@ -1,0 +1,91 @@
+{
+  "radar": "femtechs",
+  "editions": [
+    {
+      "date": "2026-09-18",
+      "title": "Treze movimentos em setembro, e nenhum app de ciclo",
+      "lead": "A femtech teve treze movimentos relevantes em setembro de 2026, seis deles nos últimos oito dias. Oito são clínicos ou diagnósticos. Aplicativo de rastreamento de ciclo, que foi a cara da categoria por uma década, não aparece nenhuma vez.",
+      "blocks": [
+        { "type": "h2", "text": "Quem se mexeu" },
+        { "type": "p", "text": "O volume está alto e o ticket médio está baixo, o que descreve um setor com muita entrada nova e pouca consolidação. A distribuição geográfica também chama atenção: nove países diferentes em um único mês, com forte presença nórdica." },
+        {
+          "type": "table",
+          "head": ["Data", "Empresa", "País", "O que faz", "Movimento"],
+          "rows": [
+            ["17/09", "Induvita", "Noruega", "Modernização do cuidado ginecológico", "NOK 7,5 mi"],
+            ["16/09", "Aitiologic", "Áustria (Viena)", "Biópsia líquida para risco de pré-eclâmpsia no primeiro trimestre", "EUR 6,4 mi, liderados por Heal Capital e Ananda Impact Ventures"],
+            ["16/09", "Sylvia Health", "Dinamarca (Copenhague)", "Dispositivo para prolapso de órgãos pélvicos", "EUR 560 mil"],
+            ["14/09", "Ananya Health", "Estados Unidos", "Crioablação portátil para lesões pré-cancerosas do colo do útero", "USD 100 mil, da EHA Impact Ventures"],
+            ["11/09", "Healthy Moms, Healthy Babies America", "Estados Unidos", "Campanha para reduzir pela metade a mortalidade materna no país", "USD 100 mi comprometidos"],
+            ["10/09", "Nua", "Índia (Mumbai)", "Cuidado menstrual, higiene íntima e maternidade, com mais de 3 mi de clientes por mês", "USD 50 mi, Série C liderada por Peak XV Partners e Filter Capital"],
+            ["09/09", "DNB", "Noruega", "Banco tradicional lançando fundo global de saúde da mulher", "Novo fundo"],
+            ["08/09", "Mensis", "Dinamarca", "Biossensor vestível de coleta contínua de dados hormonais", "DKK 760 mil"],
+            ["03/09", "ProvanAI", "Estados Unidos (St. Louis)", "Previsão de risco de câncer de ovário a partir de mamografia, spinout da WashU", "USD 1,2 mi"],
+            ["02/09", "iPremom", "Espanha (Valência)", "Diagnóstico molecular para prever complicações na gestação", "EUR 15 mi"],
+            ["01/09", "KOVE Medical", "Suíça (Zurique)", "Dispositivo para reduzir risco de parto prematuro após cirurgia fetal", "CHF 1,6 mi"],
+            ["01/09", "Peripear", "Reino Unido", "Dispositivo para prevenir laceração perineal no parto", "GBP 1,2 mi"]
+          ]
+        },
+        { "type": "h2", "text": "Onde o capital está entrando" },
+        { "type": "p", "text": "O movimento mais estrutural de agosto e setembro não foi rodada de startup, foi criação de veículo de investimento. Quatro fundos novos dedicados a saúde da mulher em seis semanas." },
+        {
+          "type": "table",
+          "head": ["Data", "Veículo", "Tamanho"],
+          "rows": [
+            ["09/09/2026", "DNB, banco norueguês, fundo global de saúde da mulher", "Sem valor divulgado"],
+            ["26/08/2026", "Capital F, fundo de estreia", "USD 17 mi"],
+            ["13/08/2026", "Next Phase Femtech", "EUR 1,6 mi"],
+            ["06/08/2026", "Cross-Border Impact Ventures, Fundo II de saúde de mulheres e crianças", "USD 58 mi"]
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "A femtech ainda recebe cerca de 3% do gasto de digital health. O setor está criando estrutura de capital própria justamente porque não consegue espaço na estrutura geral. Isso é sinal de amadurecimento, não de bolha."
+        },
+        { "type": "h2", "text": "Brasil e América Latina" },
+        { "type": "p", "text": "Nenhuma empresa brasileira ou latino-americana aparece na lista global acima, e isso não é acaso. O Brasil ainda lidera o mapa regional, mas está perdendo participação. O ecossistema latino-americano cresceu cerca de 40% em um ano, de 70 startups em nove países em 2025 para 98 empresas em dez países em 2026." },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "38%", "label": "Participação do Brasil nas startups da região, contra cerca de 50% antes" },
+            { "value": "59%", "label": "Das startups pesquisadas foram fundadas exclusivamente por mulheres, e outras 20% por times mistos" },
+            { "value": "3", "label": "Empresas de saúde mental e 3 de detecção de câncer de mama em toda a América Latina" }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Brasil, Argentina e México concentram 80% da atividade regional. A queda relativa brasileira não é encolhimento, é os vizinhos crescendo mais rápido: a Argentina quase dobrou, chegando a 29 empresas, e o México dobrou, chegando a 13.",
+            "A Colômbia tem apenas duas soluções, apesar do tamanho do mercado consumidor. Peru e América Central estão ausentes ou sub-representados.",
+            "Entre os nomes da região que aparecem com mais frequência estão a Plenna (México), que combina ginecologia, saúde mental e telemedicina, e a Yana (México), chatbot de saúde mental com cerca de 10 milhões de usuários, majoritariamente jovens e mulheres.",
+            "A concentração regional está em saúde reprodutiva e menstrual, enquanto o capital global desta mesma quinzena foi quase todo para diagnóstico e clínica. O Brasil está um ciclo atrás dessa virada."
+          ]
+        },
+        { "type": "h2", "text": "Cinco teses que se repetem" },
+        {
+          "type": "ol",
+          "items": [
+            "**Do rastreamento para o diagnóstico.** Aitiologic (Áustria) e iPremom (Espanha) vão atrás de exame de sangue para pré-eclâmpsia e complicações gestacionais. ProvanAI (Estados Unidos), risco de câncer de ovário. Ananya Health (Estados Unidos), colo do útero. A empresa nova quer produzir evidência clínica, não coletar log de ciclo.",
+            "**Hormônio como sinal contínuo.** Mensis (Dinamarca) em setembro e Clair Health (Estados Unidos) em junho, esta com USD 11,6 mi liderados por Khosla Ventures, atacam o mesmo alvo: transformar hormônio em medida contínua, como já se faz com glicose.",
+            "**O parto como campo de engenharia.** KOVE Medical (Suíça) em parto prematuro e Peripear (Reino Unido) em laceração perineal tratam eventos obstétricos como problema de dispositivo, não como fatalidade.",
+            "**Menopausa saindo da margem.** Aparece como primeira tendência do ano em análises de mercado, junto com diagnóstico caseiro virando mainstream e modelos migrando para B2B2C.",
+            "**Evidência como barreira de entrada.** Confiança e evidência viraram chave de acesso a mercado, e assistentes de IA em saúde entram em área de regulação crescente. Quem fizer promessa clínica sem dado vai parar antes de escalar."
+          ]
+        },
+        { "type": "p", "text": "Há um alerta embutido nessa lista: o crescimento de funding convive com um penhasco na Série B. Muita empresa entra, poucas atravessam. A promessa de aplicativo que entende a mulher virou commodity. O que vira ativo defensável é dado clínico proprietário e validação." }
+      ],
+      "sources": [
+        { "label": "Femtech Insider, seção de investimento", "url": "https://femtechinsider.com/category/investment/" },
+        { "label": "FutureFemHealth, edição sobre o fundo do DNB", "url": "https://www.futurefemhealth.com/p/mainstream-bank-launches-womens-health" },
+        { "label": "Aitiologic, anúncio da rodada seed de EUR 6,4 mi", "url": "https://www.globenewswire.com/news-release/2026/09/15/3361783/0/en/aitiologic-raises-6-4-million-in-oversubscribed-seed-financing-to-advance-tissue-resolved-liquid-biopsy-platform-and-preeclampsia-lead-program.html" },
+        { "label": "Tech.eu, sobre a Sylvia Health", "url": "https://tech.eu/2025/10/06/sylvia-health-takes-on-a-global-womens-health-crisis/" },
+        { "label": "Femtech Insider, sobre a rodada da Nua", "url": "https://femtechinsider.com/nua-secures-50m-to-scale-feminine-hygiene-business/" },
+        { "label": "Venture Kick, sobre a KOVE Medical", "url": "https://www.venturekick.ch/KOVE-medical-raises-CHF-16-million-to-make-fetal-surgery-safer" },
+        { "label": "New Market Pitch, lista de deals de femtech", "url": "https://newmarketpitch.com/blogs/news/femtech-list-deals" },
+        { "label": "Forbes, FemTech Latam 2026", "url": "https://www.forbes.com.ec/negocios/femtech-latam-2026-como-donde-donde-crece-mapa-regional-n93211" },
+        { "label": "Mexico Business, apostas globais de femtech em LatAm", "url": "https://mexicobusiness.news/health/news/smart-money-2026-10-global-femtech-bets-latam-and-mexico" }
+      ]
+    }
+  ]
+}
