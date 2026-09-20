@@ -2,6 +2,58 @@
   "radar": "femture",
   "editions": [
     {
+      "date": "2026-09-20",
+      "title": "Sete dos nove futuristas monitorados não publicaram nada novo esta semana",
+      "lead": "Nesta janela de sete dias, sete das nove fontes que o Radar acompanha não tiveram conteúdo novo confirmável. As duas exceções chegaram por vias indiretas: um podcast sobre órgãos bioartificiais e um conselheiro de startup trabalhando em interface cerebral por nanopartícula. Nenhuma tocou em saúde da mulher de forma direta.",
+      "blocks": [
+        { "type": "h2", "text": "O que mudou nesta semana" },
+        { "type": "p", "text": "O volume ficou baixo, mas dois achados têm data e fonte confirmadas. Os dois chegam à saúde da mulher por caminho indireto, não porque algum futurista tenha falado do tema de frente." },
+        {
+          "type": "table",
+          "head": ["Data", "Quem", "O que aconteceu"],
+          "rows": [
+            ["15/09/2026", "[Peter Diamandis](https://www.diamandis.com/podcast)", "No episódio 290 do podcast Moonshots, entrevistou Martine Rothblatt sobre xenoórgãos, regeneração do timo e a previsão de que tribunais reconheçam personalidade jurídica de IA até 2030"],
+            ["03/09/2026", "Ray Kurzweil", "Passou a atuar como conselheiro da startup Subsense, que desenvolve uma interface cérebro-computador por nanopartículas inaladas pelo nariz. É achado anterior à edição de 18/09, ainda não registrado aqui"]
+          ]
+        },
+        { "type": "p", "text": "As outras sete fontes que o Radar monitora não tiveram publicação nova confirmada entre 15 e 20 de setembro de 2026: [Gerd Leonhard](https://gerdleonhard.com/), a [Future Today Strategy Group](https://ftsg.com/), [Michio Kaku](https://mkaku.org/), [Ian Khan](https://iankhan.com/), [Sohail Inayatullah, do Metafuture](https://www.metafuture.org/), [Lindsay Angelo](https://lindsayangelo.com/) e [Rohit Talwar, da Fast Future](https://fastfuture.com/). As quatro últimas entraram no radar de monitoramento nesta edição." },
+        { "type": "h2", "text": "O que isso significa para saúde e bem-estar da mulher" },
+        { "type": "p", "text": "A entrevista de Diamandis com Rothblatt fala de xenoórgãos e regeneração de tecido, tecnologia que toca direto em preservação de fertilidade e em terapias regenerativas para o aparelho reprodutivo, mesmo sem nenhuma das duas pessoas ter citado esse recorte. O caso Kurzweil e Subsense é mais especulativo: uma interface cérebro-computador por nanopartícula pode, no futuro, virar ferramenta de monitoramento neurológico contínuo, o tipo de dado que hoje falta para enxaqueca crônica e saúde mental perinatal. Nenhuma das duas conexões foi feita pelas fontes originais." },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "2/9", "label": "Fontes monitoradas que trouxeram achado novo confirmado entre 15 e 20 de setembro de 2026" },
+            { "value": "0", "label": "Menções diretas a saúde ou bem-estar da mulher entre os achados desta semana" }
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "A edição passada dizia que a ausência era o dado. Esta semana repete o padrão, só que com números: sete de nove fontes em silêncio, zero menção direta ao corpo feminino. As duas exceções também não falam de mulher, falam de órgão e de cérebro. Regeneração de tecido e interface neural vão virar infraestrutura de saúde antes de alguém perguntar para quem essa infraestrutura foi calibrada."
+        },
+        { "type": "h2", "text": "Sinais fracos para acompanhar" },
+        {
+          "type": "ul",
+          "items": [
+            "**Xenoórgãos saindo da teoria.** Se a regeneração de tecido e o transplante de órgão bioartificial avançarem na linha que Rothblatt descreve, a aplicação mais óbvia em saúde da mulher é preservação de fertilidade e reparo de aparelho reprodutivo, hoje um mercado pequeno e pouco financiado.",
+            "**Interface cérebro-computador por via não invasiva.** Nanopartícula inalada, se funcionar, é mais barata e mais escalável que implante cirúrgico. Vale acompanhar se alguma aplicação nasce voltada para monitoramento hormonal ou neurológico feminino.",
+            "**Cobertura ampliada nesta edição.** Ian Khan, Metafuture, Lindsay Angelo e Fast Future entraram no radar de monitoramento pela primeira vez. Nenhum tinha conteúdo novo confirmável nesta janela, mas o acompanhamento continua nas próximas edições."
+          ]
+        }
+      ],
+      "sources": [
+        { "label": "Fortune, sobre Ray Kurzweil e a Subsense", "url": "https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/" },
+        { "label": "Moonshots with Peter Diamandis, episódio 290 com Martine Rothblatt (YouTube)", "url": "https://www.youtube.com/watch?v=2uiIEdmL040" },
+        { "label": "Gerd Leonhard, site oficial", "url": "https://gerdleonhard.com/" },
+        { "label": "Future Today Strategy Group", "url": "https://ftsg.com/" },
+        { "label": "Michio Kaku, site oficial", "url": "https://mkaku.org/" },
+        { "label": "Ian Khan, site oficial", "url": "https://iankhan.com/" },
+        { "label": "Metafuture, de Sohail Inayatullah", "url": "https://www.metafuture.org/" },
+        { "label": "Lindsay Angelo, site oficial", "url": "https://lindsayangelo.com/" },
+        { "label": "Fast Future, de Rohit Talwar", "url": "https://fastfuture.com/" }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "title": "Os futuristas falam de longevidade sem falar do corpo feminino",
       "lead": "Nesta semana, os futuristas mais lidos do mundo convergiram em dois temas: governança de agentes autônomos e prazos de longevidade. Nenhum deles citou saúde da mulher. Essa ausência é o assunto desta edição.",

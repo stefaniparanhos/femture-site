@@ -2,6 +2,68 @@
   "radar": "femtechs",
   "editions": [
     {
+      "date": "2026-09-20",
+      "title": "Evvy capta USD 40 milhões, uma farmacêutica compra fertilidade, e a América Latina fica de fora",
+      "lead": "A janela desta edição foi curta, de 18 a 20 de setembro de 2026, mas concentrada: três movimentos confirmados, todos nos Estados Unidos, e nenhum no Brasil ou na América Latina. O fio comum é dado biológico proprietário e molécula patenteável, não aplicativo de consumo.",
+      "blocks": [
+        { "type": "h2", "text": "Quem se mexeu" },
+        { "type": "p", "text": "Os três movimentos confirmados desta semana têm o mesmo país de origem e o mesmo tema de fundo: quem paga, paga por evidência clínica ou por acesso a diagnóstico, não por engajamento de aplicativo." },
+        {
+          "type": "table",
+          "head": ["Data", "Empresa", "País", "O que faz", "Movimento"],
+          "rows": [
+            ["15/09/2026", "[Evvy](https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/)", "Estados Unidos (Nova York)", "Diagnóstico de precisão do microbioma vaginal, com teste domiciliar e IA própria (EvvyAI), agora expandindo para fertilidade", "USD 40 mi, liderados pela Catalio Capital Management"],
+            ["15/09/2026", "[Wisp](https://www.fiercehealthcare.com/digital-health/chutes-ladders-reproductive-health-provider-wisp-names-first-female-ceo)", "Estados Unidos (São Francisco)", "Telessaúde de saúde sexual e reprodutiva com 2 milhões de pacientes, expandindo para fertilidade, perimenopausa, menopausa e diagnóstico", "Troca de CEO, Keira Krausz no lugar de Monica Cepak, e ampliação de linha de produto"],
+            ["09/09/2026", "[PostEra](https://www.biospace.com/press-releases/posteras-fertility-programs-acquired-by-emd-serono-inc)", "Estados Unidos", "Usava IA própria (Proton) para desenhar moléculas para os receptores FSHR e LHCGR, mirando um protocolo de FIV totalmente oral, ainda em fase pré-clínica", "Dois programas de fertilidade vendidos para a EMD Serono, braço americano da alemã Merck KGaA"]
+          ]
+        },
+        { "type": "p", "text": "Nenhum fundo novo dedicado a saúde da mulher foi confirmado nesta janela, ao contrário da semana passada, quando quatro vieram à tona em seis semanas. Isso é esperado em uma janela de dois dias, não é sinal de desaceleração." },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "As três operações desta semana têm o mesmo comprador de fundo: dado biológico proprietário (Evvy) e molécula patenteável (PostEra, comprada pela EMD Serono) valem mais do que crescimento de usuário. A troca de CEO na Wisp aponta na mesma direção, a empresa está deixando o modelo só de receita digital para trás e mirando diagnóstico. Nenhuma das três é brasileira ou latino-americana, e essa lacuna é o segundo dado da semana."
+        },
+        { "type": "h2", "text": "Brasil e América Latina" },
+        { "type": "p", "text": "Nenhuma rodada, lançamento ou aquisição de femtech no Brasil, no México, na Argentina, na Colômbia ou no Chile foi confirmada entre 18 e 20 de setembro de 2026. Checamos [Femtech Insider, seção de investimento](https://femtechinsider.com/category/investment/), [FutureFemHealth](https://www.futurefemhealth.com/) e [Femtech World](https://femtechworld.co.uk/), fonte nova nesta edição: nenhuma trouxe movimento de empresa latino-americana nesta janela. Dado que a edição anterior saiu há dois dias, isso é esperado, não é um vazio inédito." },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "0", "label": "Movimentos de femtech no Brasil ou na América Latina confirmados entre 18 e 20 de setembro de 2026" },
+            { "value": "98", "label": "Startups de femtech mapeadas em 10 países da América Latina, segundo levantamento de 30 de junho de 2026, sem atualização nesta janela" }
+          ]
+        },
+        { "type": "h2", "text": "Sinais fracos para acompanhar" },
+        {
+          "type": "ul",
+          "items": [
+            "**Femtech World, fonte nova, cobre política pública, não rodada.** O conteúdo mais recente indexado é sobre rastreamento de HPV pelo sistema público de saúde do Reino Unido, um biobanco de fluido menstrual e um estudo sobre radiação cósmica e câncer de mama. Nenhuma empresa aparece, mas o naipe da cobertura vale monitorar.",
+            "**Farmacêutica grande comprando IA nativa de fertilidade.** A EMD Serono, braço americano da alemã Merck KGaA, comprou dois programas pré-clínicos de FIV oral desenhados por IA da PostEra. Se o padrão se repetir, o comprador natural de startup de fertilidade early-stage passa a ser farmacêutica, não fundo de VC."
+          ]
+        },
+        { "type": "h2", "text": "Três teses que se repetem" },
+        {
+          "type": "ol",
+          "items": [
+            "**Dado biológico proprietário vale mais que traço de ciclo.** A [Evvy](https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/) (Estados Unidos) captou para dado de microbioma vaginal, não para calendário de ciclo menstrual.",
+            "**Farmacêutica grande compra fertilidade computacional.** A EMD Serono (Alemanha, operação nos Estados Unidos) comprou dois programas de FIV oral desenhados por IA da [PostEra](https://www.biospace.com/press-releases/posteras-fertility-programs-acquired-by-emd-serono-inc) (Estados Unidos), sinal de que farma tradicional paga por molécula, não só financia app.",
+            "**Telessaúde madura vira diagnóstico.** A [Wisp](https://www.fiercehealthcare.com/digital-health/chutes-ladders-reproductive-health-provider-wisp-names-first-female-ceo) (Estados Unidos) trocou de CEO para expandir de receita digital simples para perimenopausa, menopausa e diagnóstico."
+          ]
+        },
+        { "type": "p", "text": "As três operações confirmadas desta semana são dos Estados Unidos. É pouco volume para tirar conclusão de tendência regional, mas fecha um padrão que vale observar: o capital ainda se concentra onde já existe infraestrutura regulatória de FDA, e a lacuna latino-americana desta semana é sobre isso, não sobre falta de empresa." }
+      ],
+      "sources": [
+        { "label": "TechCrunch, sobre a rodada da Evvy", "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/" },
+        { "label": "Forbes, sobre a rodada da Evvy", "url": "https://www.forbes.com/sites/geristengel/2026/09/16/evvy-raised-40-million-for-data-on-womens-bodies-to-fill-scientific-gap/" },
+        { "label": "Fierce Healthcare, sobre a troca de CEO na Wisp", "url": "https://www.fiercehealthcare.com/digital-health/chutes-ladders-reproductive-health-provider-wisp-names-first-female-ceo" },
+        { "label": "MobiHealthNews, sobre a expansão da Wisp", "url": "https://www.mobihealthnews.com/news/wisp-origin-partner-expand-womens-healthcare-access" },
+        { "label": "BioSpace, sobre a EMD Serono e a PostEra", "url": "https://www.biospace.com/press-releases/posteras-fertility-programs-acquired-by-emd-serono-inc" },
+        { "label": "PRNewswire, comunicado da EMD Serono sobre a PostEra", "url": "https://www.prnewswire.com/news-releases/posteras-fertility-programs-acquired-by-emd-serono-inc-302872651.html" },
+        { "label": "Femtech Insider, seção de investimento", "url": "https://femtechinsider.com/category/investment/" },
+        { "label": "FutureFemHealth", "url": "https://www.futurefemhealth.com/" },
+        { "label": "Femtech World", "url": "https://femtechworld.co.uk/" }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "title": "Treze movimentos em setembro, e nenhum app de ciclo",
       "lead": "A femtech teve treze movimentos relevantes em setembro de 2026, seis deles nos últimos oito dias. Oito são clínicos ou diagnósticos. Aplicativo de rastreamento de ciclo, que foi a cara da categoria por uma década, não aparece nenhuma vez.",
