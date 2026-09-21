@@ -2,6 +2,61 @@
   "radar": "femture",
   "editions": [
     {
+      "date": "2026-09-21",
+      "title": "Duas fontes com achado novo, sete em silêncio, zero menção ao corpo feminino",
+      "lead": "Entre 14 e 21 de setembro de 2026, sete das nove fontes que o Radar Femture acompanha não publicaram nada novo confirmável. As duas exceções, um podcast sobre xenoórgãos e a entrada de um veterano da IA como conselheiro de uma startup de interface cerebral, tratam de órgão e de cérebro, não de saúde da mulher.",
+      "blocks": [
+        { "type": "h2", "text": "O que mudou nesta semana" },
+        { "type": "p", "text": "A varredura cobriu as nove fontes do escopo do Radar. Duas trouxeram fato novo com data confirmada. As outras sete, checadas por busca porque o acesso direto aos domínios estava bloqueado pela política de rede deste ambiente, não têm publicação nova localizável entre 14 e 21 de setembro de 2026." },
+        {
+          "type": "table",
+          "head": ["Data", "Quem", "O que aconteceu"],
+          "rows": [
+            ["15/09/2026", "[Peter Diamandis](https://www.diamandis.com/podcast)", "No episódio 290 do podcast Moonshots, entrevistou Martine Rothblatt sobre xenoórgãos da United Therapeutics, regeneração do timo e a previsão de que tribunais reconheçam personalidade jurídica de sistemas de IA até 2030"],
+            ["03/09/2026", "[Ray Kurzweil](https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/)", "Tornou-se conselheiro de produto e visão da Subsense, startup que desenvolve interface cérebro-computador por nanopartículas inaladas pelo nariz, em vez de eletrodo implantado"]
+          ]
+        },
+        { "type": "p", "text": "As outras sete fontes não têm conteúdo novo confirmado nesta janela: [Gerd Leonhard](https://gerdleonhard.com/), a [Future Today Strategy Group](https://ftsg.com/), [Michio Kaku](https://mkaku.org/), [Ian Khan](https://iankhan.com/), [Sohail Inayatullah, do Metafuture](https://www.metafuture.org/), [Lindsay Angelo](https://lindsayangelo.com/) e [Rohit Talwar, da Fast Future](https://fastfuture.com/)." },
+        { "type": "h2", "text": "O que isso significa para saúde e bem-estar da mulher" },
+        { "type": "p", "text": "Nenhuma das duas fontes citou saúde da mulher. Mas a tecnologia em jogo toca o tema de lado. Xenoórgão e regeneração de tecido, o assunto da conversa entre Diamandis e Rothblatt, é a mesma ciência que sustenta preservação de fertilidade e reparo de aparelho reprodutivo, hoje um segmento pequeno dentro da medicina regenerativa. Interface cérebro-computador por nanopartícula inalada, o projeto que Kurzweil passou a assessorar, é mais barata e mais escalável que implante cirúrgico. Se a tecnologia amadurecer, o uso mais óbvio em saúde da mulher é monitoramento contínuo de hormônio e de sintoma neurológico, a mesma lacuna de dado que a edição de 18 de setembro já descrevia." },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "2/9", "label": "Fontes monitoradas com achado novo confirmado entre 14 e 21 de setembro de 2026" },
+            { "value": "0", "label": "Menções diretas a saúde ou bem-estar da mulher nos dois achados desta semana" },
+            { "value": "2030", "label": "Ano em que Martine Rothblatt prevê que tribunais reconheçam personalidade jurídica de sistemas de IA" }
+          ]
+        },
+        { "type": "h2", "text": "Sinais fracos para acompanhar" },
+        {
+          "type": "ul",
+          "items": [
+            "**Xenoórgão saindo do papel.** Se a regeneração de tecido e o transplante bioartificial avançarem como Rothblatt descreve, a aplicação mais direta em saúde da mulher é preservação de fertilidade e reparo de aparelho reprodutivo.",
+            "**Interface cerebral não invasiva.** Nanopartícula inalada, se funcionar fora do laboratório, é caminho mais barato que cirurgia. Vale acompanhar se alguma aplicação nascer voltada para monitoramento hormonal ou neurológico feminino.",
+            "**Sete fontes em silêncio por sete dias seguidos.** Não é evidência de que o tema não importa para elas, é evidência de que a cadência de publicação de futurista individual é mais lenta que a varredura semanal do Radar. A leitura correta é acompanhar em janelas de várias semanas, não tirar conclusão de uma semana isolada."
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "A ausência voltou a ser o dado, como na edição anterior. As duas exceções desta semana chegam por assunto adjacente, órgão e cérebro, não por menção direta ao corpo feminino. Enquanto longevidade e interface neural amadurecem em cima de biotecnologia geral, saúde da mulher segue como aplicação hipotética que ninguém nomeou ainda. Quem nomear primeiro sai na frente."
+        }
+      ],
+      "sources": [
+        { "label": "Peter Diamandis, podcast Moonshots", "url": "https://www.diamandis.com/podcast" },
+        { "label": "Moonshots with Peter Diamandis, episódio 290 com Martine Rothblatt (YouTube)", "url": "https://www.youtube.com/watch?v=2uiIEdmL040" },
+        { "label": "Apple Podcasts, ficha do episódio com Martine Rothblatt", "url": "https://podcasts.apple.com/ro/podcast/moonshots-with-peter-diamandis-martine-rothblatt-on/id1848404899?i=1000789811051" },
+        { "label": "Fortune, sobre Ray Kurzweil e a Subsense", "url": "https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/" },
+        { "label": "Gerd Leonhard, site oficial", "url": "https://gerdleonhard.com/" },
+        { "label": "Future Today Strategy Group", "url": "https://ftsg.com/" },
+        { "label": "Michio Kaku, site oficial", "url": "https://mkaku.org/" },
+        { "label": "Ian Khan, site oficial", "url": "https://iankhan.com/" },
+        { "label": "Metafuture, de Sohail Inayatullah", "url": "https://www.metafuture.org/" },
+        { "label": "Lindsay Angelo, site oficial", "url": "https://lindsayangelo.com/" },
+        { "label": "Fast Future, de Rohit Talwar", "url": "https://fastfuture.com/" }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "title": "Os futuristas falam de longevidade sem falar do corpo feminino",
       "lead": "Nesta semana, os futuristas mais lidos do mundo convergiram em dois temas: governança de agentes autônomos e prazos de longevidade. Nenhum deles citou saúde da mulher. Essa ausência é o assunto desta edição.",

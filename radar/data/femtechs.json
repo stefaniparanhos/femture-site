@@ -2,6 +2,73 @@
   "radar": "femtechs",
   "editions": [
     {
+      "date": "2026-09-21",
+      "title": "Seis movimentos entre 9 e 15 de setembro, todos nos Estados Unidos",
+      "lead": "Entre 9 e 21 de setembro de 2026, seis movimentos de femtech tiveram data e fonte confirmadas, e todos os seis são de empresas ou compradores americanos. Nenhum movimento de femtech foi confirmado no Brasil ou na América Latina nesta janela.",
+      "blocks": [
+        { "type": "h2", "text": "Quem se mexeu" },
+        { "type": "p", "text": "O padrão da semana é geográfico, não temático: diagnóstico, telessaúde, suplemento e biotecnologia de fertilidade aparecem lado a lado, mas a origem é sempre a mesma." },
+        {
+          "type": "table",
+          "head": ["Data", "Empresa", "País", "O que faz", "Movimento"],
+          "rows": [
+            ["15/09/2026", "[Evvy](https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/)", "Estados Unidos (Nova York)", "Diagnóstico de precisão do microbioma vaginal, com teste domiciliar e IA própria, EvvyAI, hoje com mais de 100 mil pacientes", "USD 40 mi, Série B liderada pela Catalio Capital Management, com Rethink Impact, Muse Capital e Alumni Ventures"],
+            ["15/09/2026", "[Wisp](https://www.inc.com/lucia-auerbach/largest-us-womens-telehealth-company-2-rules-next-act-wisp/91405100)", "Estados Unidos (São Francisco)", "Telessaúde de saúde sexual e reprodutiva, mais de 2 milhões de pacientes atendidos", "Troca de CEO, Keira Krausz no lugar de Monica Cepak, com expansão anunciada para fertilidade, perimenopausa, menopausa e diagnóstico domiciliar"],
+            ["15/09/2026", "[Ritual](https://www.prnewswire.com/news-releases/ritual-launches-perimenopause-health-comprehensive-perimenopause-support-without-any-added-hormones-302878656.html)", "Estados Unidos (Los Angeles)", "Marca de suplemento vitamínico de consumo", "Lançou o Perimenopause Health, suplemento sem hormônio com shatavari e DIM, primeira categoria de produto nova da marca em seis anos, USD 39 por mês"],
+            ["09/09/2026", "[Viv](https://www.futurefemhealth.com/p/viv-raises-2m-to-expand-period-care)", "Estados Unidos (Boston)", "Marca de cuidado menstrual", "USD 2 mi, elevando o total captado a USD 3,3 mi, para expandir o tampão patenteado Cottonlock e entrar em 526 lojas da rede Whole Foods"],
+            ["09/09/2026", "[PostEra](https://www.biospace.com/press-releases/posteras-fertility-programs-acquired-by-emd-serono-inc)", "Estados Unidos (Cambridge, Massachusetts)", "Usava IA própria, batizada Proton, para desenhar molécula candidata a fármaco", "Vendeu dois programas pré-clínicos de fertilidade, agonistas dos receptores FSHR e LHCGR para FIV totalmente oral, para a EMD Serono, braço americano da alemã Merck KGaA"]
+          ]
+        },
+        { "type": "h2", "text": "Onde o capital está entrando" },
+        { "type": "p", "text": "Nenhum fundo novo dedicado a saúde da mulher foi confirmado nesta janela, diferente da semana passada, quando quatro vieram à tona em seis semanas. O sinal de capital mais forte desta vez veio de dentro de uma farmacêutica grande, não de um veículo de investimento novo." },
+        { "type": "p", "text": "A Eli Lilly, sediada nos Estados Unidos, está direcionando parte do lucro dos medicamentos GLP-1, Mounjaro e Zepbound, para montar uma frente de saúde da mulher, com contratação de especialistas em saúde reprodutiva mirando pré-eclâmpsia, saúde óssea e endometriose. A empresa já investiu USD 40 mi no programa de endometriose da biotech Absci." },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "USD 19,8 bi", "label": "Receita trimestral da Eli Lilly no primeiro trimestre de 2026, a base que financia a nova frente de saúde da mulher" },
+            { "value": "USD 40 mi", "label": "Já investidos pela Eli Lilly no programa de endometriose da Absci" },
+            { "value": "0", "label": "Novos fundos dedicados a saúde da mulher confirmados nesta semana, contra quatro em seis semanas na edição de 18 de setembro" }
+          ]
+        },
+        { "type": "h2", "text": "Brasil e América Latina" },
+        { "type": "p", "text": "Nenhum movimento de femtech no Brasil, no México, na Argentina, na Colômbia ou no Chile foi confirmado entre 14 e 21 de setembro de 2026. Checamos a seção de investimento do [Femtech Insider](https://femtechinsider.com/category/investment/), o [FutureFemHealth](https://www.futurefemhealth.com/) e o [Femtech World](https://femtechworld.co.uk/): nenhum trouxe rodada, lançamento ou aquisição da região nesta janela." },
+        { "type": "p", "text": "Dois sinais fracos ficam fora da janela e por isso fora da tabela principal, mas valem registro. A Raquel Menopausa, startup brasileira focada em menopausa, informou que planeja sua primeira rodada apenas no segundo semestre de 2026, ainda sem valor ou investidor fechado. A Plinq, aplicativo brasileiro de segurança para mulheres que consulta antecedentes criminais de parceiros, captou R$ 1,3 mi liderados pela Spectra Investments em 7 de agosto de 2026, antes desta janela e da edição anterior." },
+        { "type": "h2", "text": "Teses que se repetem" },
+        {
+          "type": "ol",
+          "items": [
+            "**Dado biológico proprietário pesa mais que traço de ciclo.** A [Evvy](https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/) (Estados Unidos) captou para dado de microbioma vaginal, não para calendário de menstruação.",
+            "**Farmacêutica grande compra molécula, não só financia aplicativo.** A EMD Serono, braço americano da alemã Merck KGaA, comprou dois programas de fertilidade computacional da [PostEra](https://www.biospace.com/press-releases/posteras-fertility-programs-acquired-by-emd-serono-inc) (Estados Unidos). É o mesmo padrão que a Eli Lilly mostra ao investir direto na Absci.",
+            "**Telessaúde madura vira diagnóstico.** A [Wisp](https://www.inc.com/lucia-auerbach/largest-us-womens-telehealth-company-2-rules-next-act-wisp/91405100) (Estados Unidos) trocou de CEO para sair de receita digital simples e entrar em perimenopausa, menopausa e teste domiciliar.",
+            "**Perimenopausa virou categoria de consumo.** A [Ritual](https://www.prnewswire.com/news-releases/ritual-launches-perimenopause-health-comprehensive-perimenopause-support-without-any-added-hormones-302878656.html) (Estados Unidos) abriu sua primeira categoria de produto em seis anos justamente nesse tema."
+          ]
+        },
+        { "type": "p", "text": "Na edição de 18 de setembro, treze movimentos vieram de nove países diferentes. Nesta, seis movimentos vieram de um país só, os Estados Unidos. É uma janela curta para declarar tendência regional, mas o contraste entre as duas semanas é real e vale acompanhar na próxima edição." },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "A semana trocou volume internacional por concentração americana e por comprador estratégico. Uma farmacêutica grande entrando direto em pré-eclâmpsia, saúde óssea e endometriose muda o jogo mais do que uma rodada de startup: sinaliza que saúde da mulher virou linha de negócio dentro de empresa que já tem escala regulatória e comercial, não só tese de fundo de capital de risco. O silêncio do Brasil e da América Latina nesta janela de sete dias é curto demais para indicar reversão da tendência de crescimento regional documentada na semana passada."
+        }
+      ],
+      "sources": [
+        { "label": "Femtech Insider, seção de investimento", "url": "https://femtechinsider.com/category/investment/" },
+        { "label": "Femtech Insider, sobre o lançamento da Ritual", "url": "https://femtechinsider.com/ritual-expands-womens-health-portfolio-with-perimenopause-supplement/" },
+        { "label": "Femtech Insider, sobre a rodada da Viv", "url": "https://femtechinsider.com/viv-secures-2m-to-scale-patented-cottonlock-tampon/" },
+        { "label": "FutureFemHealth, boletim com Evvy, Eli Lilly e Wisp", "url": "https://www.futurefemhealth.com/p/evvys-40m-series-b-eli-lillys-womens" },
+        { "label": "FutureFemHealth, sobre a expansão da Wisp", "url": "https://www.futurefemhealth.com/p/wisp-expands-into-broader-womens" },
+        { "label": "FutureFemHealth, sobre a rodada da Viv", "url": "https://www.futurefemhealth.com/p/viv-raises-2m-to-expand-period-care" },
+        { "label": "Femtech World", "url": "https://femtechworld.co.uk/" },
+        { "label": "TechCrunch, sobre a rodada da Evvy", "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/" },
+        { "label": "Fortune, sobre a rodada da Evvy", "url": "https://fortune.com/2026/09/15/evvy-series-b-womens-health-vaginal-microbiome-research/" },
+        { "label": "Inc., sobre a troca de CEO na Wisp", "url": "https://www.inc.com/lucia-auerbach/largest-us-womens-telehealth-company-2-rules-next-act-wisp/91405100" },
+        { "label": "PRNewswire, lançamento do Ritual Perimenopause Health", "url": "https://www.prnewswire.com/news-releases/ritual-launches-perimenopause-health-comprehensive-perimenopause-support-without-any-added-hormones-302878656.html" },
+        { "label": "BioSpace, venda dos programas da PostEra para a EMD Serono", "url": "https://www.biospace.com/press-releases/posteras-fertility-programs-acquired-by-emd-serono-inc" },
+        { "label": "Bloomberg, sobre o investimento da Eli Lilly em saúde da mulher", "url": "https://www.bloomberg.com/news/articles/2026-09-10/lilly-s-glp-1-windfall-to-fund-investments-in-women-s-health" },
+        { "label": "Dealroom, sobre a rodada da Plinq", "url": "https://dealroom.co/news/143827-plinq-raises-r-1-3m-to-launch-womens-safety-app-in-brazil/" },
+        { "label": "Startups.com.br, sobre a Raquel Menopausa", "url": "https://startups.com.br/negocios/empreendedora-cria-startup-de-saude-feminina-para-apoiar-mulheres-na-menopausa/" }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "title": "Treze movimentos em setembro, e nenhum app de ciclo",
       "lead": "A femtech teve treze movimentos relevantes em setembro de 2026, seis deles nos últimos oito dias. Oito são clínicos ou diagnósticos. Aplicativo de rastreamento de ciclo, que foi a cara da categoria por uma década, não aparece nenhuma vez.",
