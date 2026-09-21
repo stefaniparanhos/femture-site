@@ -2,6 +2,222 @@
   "radar": "femtechs",
   "editions": [
     {
+      "date": "2026-09-21",
+      "title": "O capital comprou reprodutivo de novo, e o Piauí entrou pela oncologia",
+      "lead": "Dez movimentos novos no mundo entre 8 e 21 de setembro, quase todos concentrados em saúde reprodutiva e íntima. Fora desse eixo apareceu pouco, e o pouco é pequeno. No Brasil, a semana foi vazia, com uma exceção que vale por muitas: uma deep tech piauiense de detecção de câncer de mama.",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Quem se mexeu no mundo"
+        },
+        {
+          "type": "p",
+          "text": "Os itens abaixo são novos em relação à edição de 18/09. Rodadas já reportadas na semana passada, como Induvita, Aitiologic, Sylvia Health, Ananya Health e Nua, não se repetem aqui."
+        },
+        {
+          "type": "table",
+          "head": [
+            "Data",
+            "Empresa ou instituição",
+            "País",
+            "O que faz",
+            "Movimento"
+          ],
+          "rows": [
+            [
+              "15/09",
+              "Evvy",
+              "Estados Unidos (Nova York)",
+              "Teste domiciliar do microbioma vaginal com telessaúde e camada de IA sobre base proprietária",
+              "USD 40 mi, Série B liderada pela Catalio Capital Management, com U.S. Fertility, Labcorp Venture Fund, General Catalyst, Left Lane e BBG Ventures"
+            ],
+            [
+              "15/09",
+              "NIH e consórcio liderado pela Michigan State",
+              "Estados Unidos",
+              "Modelos computacionais de como hormônios femininos alteram a ação de medicamentos, em sete universidades",
+              "USD 4,6 mi, primeira parcela de até USD 12,8 mi em três anos"
+            ],
+            [
+              "15/09",
+              "Wisp",
+              "Estados Unidos",
+              "Telessaúde de saúde sexual e reprodutiva que passou a se posicionar como plataforma ampla de saúde da mulher",
+              "Expansão de plataforma e troca de CEO, após 2 milhões de pacientes"
+            ],
+            [
+              "15/09",
+              "Ritual",
+              "Estados Unidos (Los Angeles)",
+              "Suplementos, com lançamento de formulação para perimenopausa sem hormônios adicionados",
+              "Primeiro lançamento em categoria nova em seis anos"
+            ],
+            [
+              "14/09",
+              "AstraZeneca",
+              "Reino Unido",
+              "Etcamah, degradador seletivo do receptor de estrogênio por via oral, para câncer de mama com mutação ESR1 adquirida",
+              "Aprovação acelerada do FDA, primeira aprovação oncológica guiada por mutação de resistência em DNA tumoral circulante antes de a progressão aparecer em imagem"
+            ],
+            [
+              "16/09",
+              "Namida Lab",
+              "Estados Unidos (Arkansas)",
+              "Rastreio de câncer de mama por biomarcadores na lágrima, voltado a mulheres com mamas densas",
+              "Venceu o Women's Cancer Innovation Award"
+            ],
+            [
+              "11/09",
+              "Healthy Moms, Healthy Babies America",
+              "Estados Unidos",
+              "Campanha para reduzir mortalidade materna",
+              "USD 100 mi comprometidos"
+            ],
+            [
+              "10/09",
+              "Eli Lilly",
+              "Estados Unidos",
+              "Farmacêutica anunciando uso da receita dos GLP-1 para financiar investimentos em saúde da mulher",
+              "Anúncio de alocação de capital"
+            ],
+            [
+              "16/09",
+              "Manchester City",
+              "Reino Unido",
+              "Plataforma Her City, com conteúdo de saúde menstrual, assoalho pélvico, saúde mamária e nutrição para atletas",
+              "Lançamento de plataforma"
+            ],
+            [
+              "18/09",
+              "Congresso dos Estados Unidos",
+              "Estados Unidos",
+              "Primeira audiência dedicada a menopausa",
+              "Audiência pública com pedido de ação sobre a lacuna de cuidado"
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "O que apareceu fora do reprodutivo"
+        },
+        {
+          "type": "p",
+          "text": "Este radar acompanha saúde da mulher em sentido amplo, e não apenas saúde íntima, sexual e reprodutiva. Entra qualquer solução para condições que afetam exclusivamente as mulheres ou que as afetam de forma diferente, mais frequente ou pior diagnosticada. A pergunta desta semana era onde o capital está indo fora do aparelho reprodutor. A resposta é que quase não está indo."
+        },
+        {
+          "type": "p",
+          "text": "Fora do eixo reprodutivo e íntimo, o que apareceu foi isto e nada mais: oncologia de mama, com a aprovação do Etcamah e o prêmio da Namida Lab; assoalho pélvico, com a Sylvia Health e seus EUR 560 mil, o menor cheque da lista; menopausa, com um lançamento de suplemento e uma audiência no Congresso, sem nenhuma rodada de startup; e farmacologia com recorte de sexo, com o financiamento do NIH ao consórcio da Michigan State. Nenhuma startup levantou capital nesta semana para doença autoimune, doença cardiovascular em mulheres, osteoporose, Alzheimer, enxaqueca, dor crônica, fibromialgia, TDAH ou autismo em mulheres, carga mental ou cuidado."
+        },
+        {
+          "type": "p",
+          "text": "Vale dizer com clareza o que isso significa. Não é que essas condições não existam ou não tenham mercado. É que o dinheiro ainda não chegou nelas. Essa é a informação, e ela é mais útil do que uma lista comprida de aplicativos de ciclo."
+        },
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "9 de 10",
+              "label": "Movimentos da semana no mundo que tocam reprodutivo, íntimo, oncologia de mama ou menopausa"
+            },
+            {
+              "value": "0",
+              "label": "Rodadas de startup em doenças autoimunes, cardiovascular feminino, osteoporose, neurodivergência feminina ou dor crônica"
+            },
+            {
+              "value": "1",
+              "label": "Movimento no Brasil na janela, uma deep tech de detecção de câncer de mama no Piauí"
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Brasil e América Latina"
+        },
+        {
+          "type": "p",
+          "text": "O Brasil não registrou nenhum movimento de femtech entre 15 e 21 de setembro. Em uma semana em que o mundo teve dez, essa é a distância que o mercado brasileiro ainda tem a percorrer."
+        },
+        {
+          "type": "p",
+          "text": "Sinal do mesmo problema: o startups.com.br, um dos principais veículos de cobertura do ecossistema, mantém uma editoria dedicada a femtech. As duas matérias mais recentes dela são de janeiro e agosto de 2024. A categoria existe no vocabulário do mercado e está parada há mais de um ano."
+        },
+        {
+          "type": "p",
+          "text": "A exceção veio de onde quase ninguém olha. Em 11/09, o Sebrae e a Embrapii anunciaram apoio à **Diagnostictech**, deep tech do Piauí que desenvolve o Detector Ionizográfico, equipamento de diagnóstico funcional por captação de sinais metabólicos associados a radiofármacos, com foco em nódulos mamários. A tecnologia já tem publicação científica, testes laboratoriais concluídos e avaliações preliminares em pacientes. O apoio cobre o desenvolvimento industrial do protótipo, padronização técnica, documentação, testes de desempenho, validação ampliada e preparação regulatória. Um dos sócios é Helton Matos."
+        },
+        {
+          "type": "p",
+          "text": "Sobre valores, é preciso cuidado. O contrato Sebrae e Embrapii ao qual essa iniciativa se vincula é de R$ 116 milhões não reembolsáveis, dentro de um investimento total previsto de R$ 390 milhões. Esse número é do programa, não da empresa. O valor destinado especificamente à Diagnostictech não foi divulgado pelas fontes oficiais."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**Diagnostictech**, Brasil, Piauí. Detector Ionizográfico para nódulos mamários. Frente: oncologia feminina. Apoio do Sebrae e da Embrapii anunciado em 11/09/2026 e repercutido em 21/09/2026.",
+            "No restante da América Latina, nenhum movimento de femtech na janela."
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "Quando se pergunta onde está o capital de saúde da mulher fora do aparelho reprodutor, a resposta é que ele mal existe. Osteoporose, lúpus, infarto em mulher jovem, TDAH em menina: são condições com prevalência e prejuízo documentados, e com zero rodada na janela. O único movimento brasileiro da semana não é aplicativo nem plataforma, é um equipamento médico de detecção de câncer de mama desenvolvido no Piauí, longe do eixo Rio e São Paulo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Femtech Insider, Evvy levanta USD 40 mi em Série B, 15/09/2026",
+          "url": "https://femtechinsider.com/evvy-secures-40m-to-expand-vaginal-microbiome-diagnostics/"
+        },
+        {
+          "label": "Crain's New York Business, cobertura local da rodada da Evvy",
+          "url": "https://www.crainsnewyork.com/health-care/cny-evvy-series-b-20260915/"
+        },
+        {
+          "label": "FemTech World, NIH concede mais de USD 4 milhões a consórcio universitário, 15/09/2026",
+          "url": "https://www.femtechworld.co.uk/menopause/nih-awards-multi-university-team-over-us4-million-to-improve-womens-health/"
+        },
+        {
+          "label": "Femtech Insider, FDA aprova o Etcamah da AstraZeneca, 14/09/2026",
+          "url": "https://femtechinsider.com/fda-approves-astrazenecas-etcamah-for-advanced-breast-cancer/"
+        },
+        {
+          "label": "Femtech Insider, Wisp expande plataforma e nomeia novo CEO, 15/09/2026",
+          "url": "https://femtechinsider.com/wisp-expands-womens-health-platform-appoints-new-ceo/"
+        },
+        {
+          "label": "Femtech Insider, Ritual lança suplemento para perimenopausa, 15/09/2026",
+          "url": "https://femtechinsider.com/ritual-expands-womens-health-portfolio-with-perimenopause-supplement/"
+        },
+        {
+          "label": "FemTech World, Namida Lab e o rastreio de câncer de mama pela lágrima",
+          "url": "https://www.femtechworld.co.uk/qa/innovating-breast-cancer-screening-with-tears/"
+        },
+        {
+          "label": "FemTech World, Manchester City lança plataforma de saúde da atleta",
+          "url": "https://www.femtechworld.co.uk/news/hormonal-health/man-city-launch-female-athlete-health-education-platform/"
+        },
+        {
+          "label": "Agência Sebrae de Notícias Piauí, Sebrae e Embrapii e a Diagnostictech, 11/09/2026",
+          "url": "https://pi.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-e-embrapii-impulsionam-inovacao-em-saude-desenvolvida-pela-diagnostictech/"
+        },
+        {
+          "label": "Conecta Piauí, Sebrae e Embrapii apoiam detector piauiense de nódulos mamários, 11/09/2026",
+          "url": "https://conectapiaui.com.br/noticia/geral/sebrae-e-embrapii-apoiam-detector-piauiense-de-nodulos-mamarios-22070.html"
+        },
+        {
+          "label": "Movimento Econômico, deep tech do Piauí recebe apoio federal, 21/09/2026",
+          "url": "https://movimentoeconomico.com.br/tecnologia/2026/09/21/deep-tech-do-piaui-recebe-apoio-federal-para-industrializar-detector-oncologico/"
+        },
+        {
+          "label": "startups.com.br, editoria Femtech",
+          "url": "https://startups.com.br/negocios/femtech/"
+        },
+        {
+          "label": "Contxto, cobertura de startups da América Latina",
+          "url": "https://contxto.com/"
+        }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "title": "Treze movimentos em setembro, e nenhum app de ciclo",
       "lead": "A femtech teve treze movimentos relevantes em setembro de 2026, seis deles nos últimos oito dias. Oito são clínicos ou diagnósticos. Aplicativo de rastreamento de ciclo, que foi a cara da categoria por uma década, não aparece nenhuma vez.",

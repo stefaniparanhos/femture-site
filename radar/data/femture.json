@@ -2,6 +2,177 @@
   "radar": "femture",
   "editions": [
     {
+      "date": "2026-09-21",
+      "title": "Dois de nove publicaram, e nenhum falou de mulher",
+      "lead": "Na semana de 15 a 21 de setembro, sete dos nove futuristas monitorados não publicaram nada novo. Os dois que publicaram, Gerd Leonhard e Michio Kaku, somam três textos. Nenhum deles menciona saúde da mulher. É a segunda semana seguida com esse resultado, e a repetição já é informação.",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "O que saiu, e o que não saiu"
+        },
+        {
+          "type": "p",
+          "text": "A tabela traz os nove nomes que este radar acompanha, incluindo quem não publicou. Silêncio de futurista diante de um tema também é posição, e vale registrar."
+        },
+        {
+          "type": "table",
+          "head": [
+            "Futurista",
+            "Semana",
+            "O que saiu"
+          ],
+          "rows": [
+            [
+              "Gerd Leonhard",
+              "Dois textos",
+              "17/09, participação na CNN-News18 da Índia sobre emergência de IA. 14/09, texto sobre desempoderamento gradual e risco existencial sistêmico."
+            ],
+            [
+              "Michio Kaku",
+              "Um texto",
+              "11/09, participação na NBC News Now sobre a lua que Vênus teve por quase 2 bilhões de anos. Sem relação com saúde."
+            ],
+            [
+              "Amy Webb e FTSG",
+              "Silêncio",
+              "Nada novo desde 24/07. O grupo concentra a produção no relatório anual de março, então setembro quieto é o ritmo da casa."
+            ],
+            [
+              "Peter Diamandis",
+              "Sem item datado",
+              "O podcast está parado desde 19/07 e a produção dele hoje sai por newsletter, fora do site. Na agenda, o Moonshots LIVE em 25/09."
+            ],
+            [
+              "Ian Khan",
+              "Sem item datado",
+              "O site foi atualizado em 08/09, dentro da janela, mas sem artigo novo correspondente. Pode ter sido mexida institucional."
+            ],
+            [
+              "Sohail Inayatullah",
+              "Silêncio",
+              "Última atualização do site em 20/08. O texto datado mais recente é de março."
+            ],
+            [
+              "Lindsay Angelo",
+              "Sem data",
+              "Os artigos não trazem data de publicação, o que impede separar o que é novo do que é acervo."
+            ],
+            [
+              "Rohit Talwar e Fast Future",
+              "Silêncio",
+              "Operação aparentemente parada desde maio de 2025."
+            ],
+            [
+              "Ray Kurzweil",
+              "Silêncio",
+              "O endereço histórico já não hospeda conteúdo próprio. Nada datado na janela."
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "O texto que vale a leitura"
+        },
+        {
+          "type": "p",
+          "text": "De tudo que saiu, um item merece atenção, e não pelo assunto declarado. Em **Gradual Disempowerment**, de 14/09, Leonhard apresenta a tese de Ron Bodkin de que não é preciso uma IA rebelde para que as pessoas percam poder de decisão. Basta que os sistemas fiquem bons o suficiente para que instituições passem a preferir a recomendação da máquina à humana. A perda de voz não vem de um ato deliberado, vem da otimização."
+        },
+        {
+          "type": "p",
+          "text": "Esse é exatamente o mecanismo do subdiagnóstico feminino. Um protocolo clínico automatizado não decide excluir mulheres. Ele apenas herda uma base de evidência em que mulheres foram sub-representadas e otimiza em cima dela. O resultado é o atraso diagnóstico já documentado em doença cardiovascular, doenças autoimunes e neurodivergência feminina, agora reproduzido em escala e com aparência de neutralidade técnica."
+        },
+        {
+          "type": "p",
+          "text": "No texto de 17/09, Leonhard reforça a mesma lógica com a frase de Geoffrey Hinton de que IA é cultivada, não programada. Ele prevê um incidente grave de desalinhamento em 6 a 12 meses. O argumento dele é sobre mercado financeiro e rede elétrica. Serve igual para prontuário eletrônico."
+        },
+        {
+          "type": "h2",
+          "text": "O contraponto que veio de fora do radar"
+        },
+        {
+          "type": "p",
+          "text": "Enquanto os futuristas silenciavam, o financiamento público americano fazia exatamente o movimento que eles não nomeiam. Em 15/09, o NIH destinou USD 4,6 milhões, primeira parcela de até USD 12,8 milhões em três anos, a um consórcio de sete universidades liderado pela Michigan State, sob coordenação de Teresa K. Woodruff, para construir modelos computacionais de como as variações hormonais femininas alteram o movimento e a ação de medicamentos no corpo. O escopo cobre ciclo menstrual, gravidez, anticoncepcional, menopausa e terapia hormonal."
+        },
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "2 de 9",
+              "label": "Futuristas monitorados que publicaram algo novo entre 15 e 21 de setembro"
+            },
+            {
+              "value": "0",
+              "label": "Menções a saúde da mulher, femtech, menopausa, oncologia feminina ou neurodivergência feminina em tudo que foi publicado"
+            },
+            {
+              "value": "USD 12,8 mi",
+              "label": "Teto do financiamento do NIH para modelar o efeito de hormônios femininos na ação de medicamentos, anunciado em 15/09"
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "Duas semanas seguidas, nenhuma menção. O futurismo de maior projeção discute longevidade, diagnóstico assistido por IA e risco sistêmico sem nunca perguntar de quem é o corpo padrão desses sistemas. A lacuna não é de tecnologia, é de pauta. E lacuna de pauta, para quem consulta, é espaço de posicionamento."
+        },
+        {
+          "type": "h2",
+          "text": "O que mudou em relação à semana passada"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "A conclusão central se repete: nenhum futurista acompanhado tocou em saúde da mulher. Na edição de 18/09 isso era um achado. Agora é padrão.",
+            "Gerd Leonhard segue o único com produção constante, dois textos nesta semana.",
+            "Entrou nesta edição o financiamento do NIH ao consórcio da Michigan State, primeiro item concreto de farmacologia com recorte de sexo a aparecer no radar.",
+            "Três nomes seguem sem confirmação e estão marcados assim na tabela: Diamandis, Ian Khan e Kurzweil. Nenhum deles publica mais no endereço que costumava usar."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "Gerd Leonhard, Gradual Disempowerment: Systemic Existential Risks, 14/09/2026",
+          "url": "https://gerdleonhard.com/work/gradual-disempowerment-systemic-existential-risks-aiemergency/"
+        },
+        {
+          "label": "Gerd Leonhard, on CNN-News18 India: AI Emergency, 17/09/2026",
+          "url": "https://gerdleonhard.com/work/gerd-leonhard-on-cnnnews18-india-aiemergency/"
+        },
+        {
+          "label": "Michio Kaku, Kaku on Venus Moon, 11/09/2026",
+          "url": "https://mkaku.org/home/kaku-on-venus-moon/"
+        },
+        {
+          "label": "Future Today Strategy Group, seção de insights",
+          "url": "https://ftsg.com/insights/"
+        },
+        {
+          "label": "Peter Diamandis, página de podcast",
+          "url": "https://www.diamandis.com/podcast"
+        },
+        {
+          "label": "Ian Khan, site oficial",
+          "url": "https://iankhan.com/"
+        },
+        {
+          "label": "Metafuture, Sohail Inayatullah",
+          "url": "https://www.metafuture.org/"
+        },
+        {
+          "label": "Lindsay Angelo, seção Thinking",
+          "url": "https://www.lindsayangelo.com/thinking"
+        },
+        {
+          "label": "Fast Future, Rohit Talwar",
+          "url": "https://fastfuture.com/"
+        },
+        {
+          "label": "FemTech World, NIH concede mais de USD 4 milhões a consórcio universitário, 15/09/2026",
+          "url": "https://www.femtechworld.co.uk/menopause/nih-awards-multi-university-team-over-us4-million-to-improve-womens-health/"
+        }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "title": "Os futuristas falam de longevidade sem falar do corpo feminino",
       "lead": "Nesta semana, os futuristas mais lidos do mundo convergiram em dois temas: governança de agentes autônomos e prazos de longevidade. Nenhum deles citou saúde da mulher. Essa ausência é o assunto desta edição.",
