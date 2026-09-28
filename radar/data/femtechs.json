@@ -2,6 +2,107 @@
   "radar": "femtechs",
   "editions": [
     {
+      "date": "2026-09-28",
+      "title": "O capital saiu do aparelho reprodutivo, e o Brasil ficou de fora de novo",
+      "lead": "Seis movimentos confirmados no mundo entre 22 e 28 de setembro, o período mais diverso em temas que este radar já registrou: colo do útero, menopausa, fertilidade, diagnóstico amplo, força muscular no climatério e, pela primeira vez, pesquisa cardiovascular e autoimune femininas. No Brasil e na América Latina, nenhum movimento novo, apesar de uma varredura em onze fontes e mais de vinte buscas.",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Quem se mexeu no mundo"
+        },
+        {
+          "type": "p",
+          "text": "Os itens abaixo são novos em relação à edição de 21/09. Rodadas já reportadas antes, como Evvy, Wisp, Ritual e o financiamento do NIH ao consórcio da Michigan State, não se repetem aqui."
+        },
+        {
+          "type": "table",
+          "head": ["Data", "Empresa ou instituição", "País", "O que faz", "Movimento"],
+          "rows": [
+            ["22/09", "Teal Health", "Estados Unidos", "Teal Wand, dispositivo de autocoleta domiciliar autorizado pelo FDA para rastreio de HPV e câncer de colo do útero", "USD 22 mi, Série A, liderada pela .406 Ventures, com Emerson Collective, Forerunner, Labcorp e MPower Partners"],
+            ["22/09", "Blair Health", "Canadá", "Software de infraestrutura clínica que incorpora trajetos de cuidado validados por especialistas, com foco em menopausa, para uso por clínicos generalistas", "CAD 4,2 mi, pré-seed, liderada por BDC Thrive Venture Fund e Accelia Capital"],
+            ["22/09", "Bird&Be", "Canadá", "Suplementos de fertilidade, pré-natais e kits de teste de fertilidade domiciliar", "USD 13 mi, liderada por BDC Thrive e BFG Partners"],
+            ["23/09", "Xella Health", "Estados Unidos", "Plataforma de saúde de precisão por IA que rastreia mais de 130 condições, incluindo SOP, perimenopausa e endometriose", "Integração de dados do Oura Ring à plataforma, sem aporte associado"],
+            ["23/09", "Pvolve", "Estados Unidos", "Fitness e movimento, com iniciativa de treino de força para reduzir perda muscular no climatério", "Lançamento do relatório e programa Movement Longevity, com a atriz Jennifer Aniston como embaixadora"],
+            ["22/09", "American Heart Association", "Estados Unidos", "Programa de bolsas para pesquisa translacional em disfunção microvascular, doença autoimune e sangramento menstrual intenso em mulheres", "USD 500 mil em cinco bolsas de USD 100 mil, para Cedars-Sinai, Johns Hopkins, UCLA, University of Maryland Baltimore e University of Pittsburgh"]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Duas ressalvas de apuração. A matéria original sobre a Bird&Be não afirma o país da empresa, ele foi confirmado por registro externo no Crunchbase como Toronto, Canadá. A matéria original sobre a Xella Health também não afirma o país, ele foi confirmado por reportagens da BioSpace e da Fast Company como São Francisco, Estados Unidos."
+        },
+        {
+          "type": "h2",
+          "text": "O que apareceu fora do reprodutivo"
+        },
+        {
+          "type": "p",
+          "text": "Nas duas últimas edições, o padrão era claro: quase tudo que se movia era reprodutivo, íntimo ou oncologia de mama. Nesta semana o desenho mudou. Colo do útero e fertilidade seguem presentes, mas ao lado deles aparecem menopausa como infraestrutura clínica, com a Blair Health, diagnóstico amplo de mais de 130 condições, com a Xella Health, força muscular e longevidade no climatério, com a Pvolve, e, pela primeira vez neste radar, um programa dedicado a pesquisa cardiovascular e autoimune em mulheres, via American Heart Association."
+        },
+        {
+          "type": "p",
+          "text": "Vale a ressalva. O item da American Heart Association é bolsa de pesquisa, não rodada de startup. Ainda assim, é o primeiro sinal de capital, mesmo filantrópico e de pesquisa, endereçado especificamente a doença cardiovascular e autoimune femininas desde que este radar começou a rastrear a categoria."
+        },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "6", "label": "Movimentos confirmados no mundo entre 22 e 28 de setembro" },
+            { "value": "0", "label": "Movimentos confirmados no Brasil e na América Latina na mesma janela" },
+            { "value": "USD 500 mil", "label": "Primeiras bolsas de pesquisa do radar dedicadas a doença cardiovascular e autoimune em mulheres, via American Heart Association" }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Brasil e América Latina"
+        },
+        {
+          "type": "p",
+          "text": "Nenhum movimento novo de femtech foi confirmado no Brasil ou na América Latina entre 22 e 28 de setembro. A checagem cobriu onze fontes, distrito.me/blog, abstartups.com.br, startups.com.br, startupi.com.br, revistapegn.globo.com, exame.com/pme, exame.com/negocios, neofeed.com.br, braziljournal.com, bloomberglinea.com.br, contxto.com e lavca.org, além de mais de vinte buscas por termos como femtech, saúde da mulher, healthtech feminina, menopausa startup, endometriose startup e TDAH mulheres. Nenhuma retornou notícia datada dentro da janela."
+        },
+        {
+          "type": "p",
+          "text": "A revistapegn.globo.com não pôde ser acessada diretamente nesta varredura, e a checagem dependeu de busca indireta. Fica registrado como limitação de apuração, não como confirmação de ausência de conteúdo."
+        },
+        {
+          "type": "p",
+          "text": "Isso significa que a Diagnostictech, a deep tech piauiense de detecção de câncer de mama que abriu a edição de 21/09, segue sendo o movimento mais recente confirmado na região, agora fora da janela desta edição."
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "O capital começou a semana em seis frentes diferentes, e nenhuma delas é aplicativo de ciclo. Isso é maturidade de categoria. O contraste seguinte é que o Brasil e a América Latina, região que vinha de um movimento na semana anterior, voltaram a zero, numa varredura que não deixou fonte sem checar. A distância entre o que o mundo testa e o que a região recebe continua sendo o dado mais estável deste radar."
+        },
+        {
+          "type": "h2",
+          "text": "O que mudou em relação à semana passada"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "A semana anterior teve nove de dez movimentos concentrados em reprodutivo, íntimo ou oncologia de mama. Nesta semana a distribuição é mais larga, com menopausa, diagnóstico amplo, longevidade muscular e pesquisa cardiovascular entrando pela primeira vez.",
+            "O Brasil, que teve um movimento na edição de 21/09 com a Diagnostictech, fecha esta semana sem nenhum registro novo.",
+            "A American Heart Association é a primeira fonte de capital de pesquisa voltada a doença cardiovascular e autoimune feminina a aparecer neste radar.",
+            "O Canadá entra pela primeira vez na lista global, com dois movimentos na mesma semana, Blair Health e Bird&Be."
+          ]
+        }
+      ],
+      "sources": [
+        { "label": "Femtech Insider, Teal Health capta USD 22 mi para rastreio domiciliar de câncer de colo do útero, 22/09/2026", "url": "https://femtechinsider.com/teal-health-raises-22m-to-scale-at-home-cervical-cancer-screening/" },
+        { "label": "FutureFemHealth, edição sobre a Teal Health", "url": "https://www.futurefemhealth.com/p/teal-health-raises-22m-11bn-womens" },
+        { "label": "Teal Health, comunicado oficial da rodada", "url": "https://www.getteal.com/news/teal-health-raises-22-million-series-a-to-expand-access-to-the-most-accurate-fda-authorized-at-home-hpv-cervical-cancer-screening" },
+        { "label": "Femtech Insider, Blair Health capta CAD 4,2 mi, 22/09/2026", "url": "https://femtechinsider.com/blair-health-raises-cad-4-2m-for-specialty-womens-healthcare/" },
+        { "label": "Femtech Insider, Bird&Be capta USD 13 mi, 22/09/2026", "url": "https://femtechinsider.com/birdbe-raises-13m-to-scale-fertility-supplements-and-tests/" },
+        { "label": "FutureFemHealth, edição sobre a Bird&Be", "url": "https://www.futurefemhealth.com/p/bird-and-be-raises-13m-to-expand" },
+        { "label": "Femtech Insider, Xella Health integra dados do Oura, 23/09/2026", "url": "https://femtechinsider.com/xella-integrates-with-oura-to-connect-wearable-and-lab-data/" },
+        { "label": "FemTech World, Xella Health anuncia integração com Oura, 25/09/2026", "url": "https://www.femtechworld.co.uk/news-topics/investment-deals/xella-health-announces-oura-data-integration/" },
+        { "label": "Femtech Insider, Pvolve lança relatório e programa Movement Longevity, 23/09/2026", "url": "https://femtechinsider.com/pvolve-releases-womens-longevity-report-launches-strength-training-program/" },
+        { "label": "American Heart Association, bolsas Redefining Women's Health, 22/09/2026", "url": "https://newsroom.heart.org/news/new-translational-research-awards-aim-to-redefine-health-for-women" },
+        { "label": "startups.com.br, editoria Femtech", "url": "https://startups.com.br/negocios/femtech/" },
+        { "label": "Distrito, blog", "url": "https://distrito.me/blog" },
+        { "label": "LAVCA", "url": "https://lavca.org" },
+        { "label": "Contxto, cobertura de startups da América Latina", "url": "https://contxto.com/" }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "title": "O capital comprou reprodutivo de novo, e o Piauí entrou pela oncologia",
       "lead": "Dez movimentos novos no mundo entre 8 e 21 de setembro, quase todos concentrados em saúde reprodutiva e íntima. Fora desse eixo apareceu pouco, e o pouco é pequeno. No Brasil, a semana foi vazia, com uma exceção que vale por muitas: uma deep tech piauiense de detecção de câncer de mama.",
