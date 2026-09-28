@@ -2,6 +2,88 @@
   "radar": "femture",
   "editions": [
     {
+      "date": "2026-09-28",
+      "title": "Nove de nove, silêncio total, e o único movimento foi um palco",
+      "lead": "Entre 22 e 28 de setembro, nenhum dos nove futuristas monitorados por este radar publicou um item novo com data confirmável. É a primeira semana, desde que este radar começou, em que os nove fecham juntos sem produção datada. O único movimento identificado no período foi um evento presencial de Peter Diamandis, sem conteúdo publicado sobre ele até o fechamento desta edição.",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "O que saiu, e o que não saiu"
+        },
+        {
+          "type": "p",
+          "text": "Nas duas edições anteriores, pelo menos um ou dois nomes tinham item novo e datado. Nesta semana, nenhum dos nove teve. A tabela traz o status de cada um, incluindo os casos em que o próprio site não expõe data de publicação, o que torna a checagem de novidade impossível de confirmar."
+        },
+        {
+          "type": "table",
+          "head": ["Futurista", "Status na semana", "Detalhe"],
+          "rows": [
+            ["Gerd Leonhard", "Silêncio", "Nenhum item novo entre 22 e 28/09. O mais recente confirmado segue sendo o de 14/09, sobre desalinhamento gradual de IA, já coberto na edição de 21/09."],
+            ["Michio Kaku", "Silêncio", "Nenhum item novo. O mais recente confirmado segue sendo o de 11/09, sobre a lua que Vênus teve, já coberto na edição de 21/09."],
+            ["Amy Webb e FTSG", "Silêncio", "Nenhum item novo. O mais recente confirmado é de 24/07, análise do incidente de segurança da OpenAI."],
+            ["Peter Diamandis", "Evento sem conteúdo publicado", "Realizou o Moonshots LIVE 2026 em Los Angeles em 25/09. Até o fechamento desta edição, não há artigo nem episódio no site sobre o evento. A página de podcast mostrou inconsistência entre duas checagens na mesma semana, o que reforça a falta de um item confirmável."],
+            ["Ian Khan", "Sem data confirmável", "O site não expõe data de publicação nos itens atuais, o que impede separar novidade de acervo."],
+            ["Sohail Inayatullah e Metafuture", "Sem data confirmável", "A página não tem feed datado. O último item com data encontrado é de 26/03."],
+            ["Lindsay Angelo", "Sem data confirmável", "Os artigos seguem sem data de publicação."],
+            ["Rohit Talwar e Fast Future", "Sem data confirmável", "O blog segue sem data nos posts."],
+            ["Ray Kurzweil", "Silêncio no canal próprio", "Não mantém site ativo. A notícia mais recente sobre ele fora do radar é de 03/09, quando a Fortune noticiou sua entrada na Subsense, startup de interface cérebro computador por nanopartículas. Ficou fora até da janela da semana passada."]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "O que isso significa"
+        },
+        {
+          "type": "p",
+          "text": "Zero de nove é diferente de dois de nove. Na semana passada, Leonhard e Kaku quebravam o silêncio, mesmo sem falar de mulher. Nesta semana, nem isso. Os dois nomes com produção mais regular também pararam. Isso não prova que o campo perdeu relevância, prova que a cadência de publicação pública desses nove nomes específicos é mais instável do que a narrativa de futurista sempre publicando sugere."
+        },
+        {
+          "type": "p",
+          "text": "O único fato novo da semana não veio de um texto, veio de um palco. Diamandis levou o Moonshots LIVE 2026 para Los Angeles em 25/09. Evento presencial não é artigo, e por enquanto não virou um. Fica registrado aqui como movimento, não como conteúdo analisável."
+        },
+        {
+          "type": "stats",
+          "items": [
+            { "value": "0 de 9", "label": "Futuristas monitorados com item novo e datado entre 22 e 28 de setembro" },
+            { "value": "3ª", "label": "Semana consecutiva sem nenhuma menção a saúde da mulher, menopausa, femtech ou diagnóstico por sexo entre os nove nomes" },
+            { "value": "25/09", "label": "Data do Moonshots LIVE 2026 em Los Angeles, único movimento identificado no período, ainda sem conteúdo publicado" }
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "Quando os nove nomes mais monitorados do futurismo global silenciam ao mesmo tempo, o vácuo de pauta sobre saúde da mulher não desaparece, ele só fica mais visível. Três semanas seguidas sem uma menção, e agora sem sequer produção nova para não mencionar. Para quem constrói tese de mercado em cima de tendência, este é o momento exato em que vale parar de esperar o futurismo falar e começar a falar primeiro."
+        },
+        {
+          "type": "h2",
+          "text": "O que mudou em relação à semana passada"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Leonhard e Kaku, os dois únicos que haviam publicado na edição de 21/09, voltaram ao silêncio nesta semana.",
+            "Pela primeira vez desde que este radar começou, os nove nomes monitorados fecham a semana com zero itens novos e datados.",
+            "Diamandis é o único com um movimento identificável, o evento presencial Moonshots LIVE 2026, sem conteúdo publicado até o momento.",
+            "Kurzweil segue sem canal próprio ativo. A notícia mais recente sobre ele, sua entrada na Subsense, é de 03/09 e já estava fora da janela da semana passada."
+          ]
+        }
+      ],
+      "sources": [
+        { "label": "Gerd Leonhard, seção Work", "url": "https://gerdleonhard.com/work/" },
+        { "label": "Gerd Leonhard, on CNN-News18 India: AI Emergency, 14/09/2026", "url": "https://gerdleonhard.com/work/gerd-leonhard-on-cnnnews18-india-aiemergency/" },
+        { "label": "Future Today Strategy Group, seção de insights", "url": "https://ftsg.com/insights/" },
+        { "label": "FTSG, On the OpenAI Hack, 24/07/2026", "url": "https://ftsg.com/on-the-openai-hack/" },
+        { "label": "Peter Diamandis, página de podcast", "url": "https://www.diamandis.com/podcast" },
+        { "label": "Michio Kaku, site oficial", "url": "https://mkaku.org/" },
+        { "label": "Michio Kaku, Kaku on Venus Moon, 11/09/2026", "url": "https://mkaku.org/home/kaku-on-venus-moon/" },
+        { "label": "Ian Khan, site oficial", "url": "https://iankhan.com/" },
+        { "label": "Metafuture, Sohail Inayatullah", "url": "https://www.metafuture.org/" },
+        { "label": "Lindsay Angelo, seção Thinking", "url": "https://www.lindsayangelo.com/thinking" },
+        { "label": "Fast Future, Rohit Talwar", "url": "https://fastfuture.com/" },
+        { "label": "Fortune, Ray Kurzweil se junta à Subsense, 03/09/2026", "url": "https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/" }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "title": "Dois de nove publicaram, e nenhum falou de mulher",
       "lead": "Na semana de 15 a 21 de setembro, sete dos nove futuristas monitorados não publicaram nada novo. Os dois que publicaram, Gerd Leonhard e Michio Kaku, somam três textos. Nenhum deles menciona saúde da mulher. É a segunda semana seguida com esse resultado, e a repetição já é informação.",
