@@ -2,6 +2,186 @@
   "radar": "femture",
   "editions": [
     {
+      "date": "2026-10-12",
+      "title": "Pela primeira vez, um futurista monitorado escreveu que a longevidade ficou feminina",
+      "lead": "Entre 22/09 e 12/10, quatro dos nove nomes monitorados publicaram algo datado, e um deles tocou em saúde da mulher: Lindsay Angelo, que listou \"Longevity gets female\" entre as nove tendências de bem-estar para 2027. É a quebra de uma sequência de duas edições sem nenhuma menção. Esta edição cobre três semanas, porque a anterior é de 21/09.",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "O que saiu, e o que não saiu"
+        },
+        {
+          "type": "p",
+          "text": "A janela desta edição vai de 22/09 a 12/10, o intervalo desde a última edição. A tabela traz os nove nomes, incluindo quem ficou em silêncio."
+        },
+        {
+          "type": "table",
+          "head": [
+            "Futurista",
+            "Situação",
+            "O que saiu"
+          ],
+          "rows": [
+            [
+              "[Lindsay Angelo](https://lindsayangelo.com/thinkingcont/2026/10/6/top-wellness-trends-2027)",
+              "Um texto",
+              "01/10 (a página mostra 1º de outubro, o endereço traz 6/10), The Top Nine Wellness Trends 2027. A tendência 4 é \"Longevity gets female, and it moves home\". Única menção a saúde da mulher entre todos os nomes."
+            ],
+            [
+              "[Gerd Leonhard](https://gerdleonhard.com)",
+              "Três itens, um datado",
+              "03/10, [Where We Stand Today and Where We Must Go](https://gerdleonhard.com/work/where-we-stand-today-and-where-we-must-go-ai-humanity/), sobre IA como emergência e subinvestimento em pessoas. Outros dois itens da home, um ensaio de democracia e o vídeo com Bill Halal, não trazem data (a home está carimbada em 29/09). Nada sobre saúde ou mulher."
+            ],
+            [
+              "[Amy Webb e FTSG](https://ftsg.com/insights/)",
+              "Dois textos",
+              "08/10, [What Google's Nuclear Deal Is Really Signaling](https://ftsg.com/what-googles-nuclear-deal-is-really-signaling/), sobre 890 MW de energia nuclear financiados pelo Google. 30/09, [Insurance's Role in the AI Ecosystem](https://ftsg.com/insurances-role-in-ai-nvidia/), sobre seguro para financiar chips de IA. Nenhum toca saúde. Quebra o silêncio que vinha de 24/07."
+            ],
+            [
+              "[Peter Diamandis](https://www.diamandis.com/podcast)",
+              "Sete episódios na janela",
+              "De 23/09 a 03/10, episódios 293 a 298 e o 288. O mais próximo do nosso tema é o [#297, de 30/09](https://www.diamandis.com/podcast/ben-lamm-biological-singularity), com Ben Lamm, da Colossal Biosciences, que cita a possibilidade de úteros artificiais em até 24 meses. A página não traz data própria desse episódio, a data vem da listagem do podcast."
+            ],
+            [
+              "[Michio Kaku](https://mkaku.org)",
+              "Silêncio",
+              "Último item em 11/09, sobre a lua de Vênus. Nada novo."
+            ],
+            [
+              "[Ian Khan](https://iankhan.com)",
+              "Sem item datado",
+              "Os relatórios da home não têm data na página. O mais recente com data é o State of Medical Imaging, de agosto de 2026, fora da janela."
+            ],
+            [
+              "[Sohail Inayatullah (Metafuture)](https://www.metafuture.org)",
+              "Sem item datado",
+              "A home não lista conteúdo com data. Só dá para dizer que não há novidade verificável."
+            ],
+            [
+              "[Rohit Talwar (Fast Future)](https://fastfuture.com)",
+              "Sem item datado",
+              "Os dois itens do blog não têm data e o rodapé marca 2025. Operação segue parada, até onde dá para ver."
+            ],
+            [
+              "Ray Kurzweil",
+              "Não confirmado",
+              "Sem site próprio com conteúdo novo. Uma busca achou relatos de segunda mão de que ele virou conselheiro da Subsense em 03/09, mas outra fonte descreve outro cargo. Não confirmei, por isso não conta."
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "O texto que vale a leitura"
+        },
+        {
+          "type": "p",
+          "text": "No texto da Lindsay Angelo, a tendência 4 diz que mulheres envelhecem por uma trajetória diferente, com o envelhecimento ovariano puxando boa parte dela. A proposta é sair do manejo da menopausa para o apoio ao healthspan feminino em cada década, com treino de força, terapia hormonal e novos diagnósticos no centro. Ela acrescenta a ideia de longevidade em casa, com diagnóstico, iluminação circadiana e atendimento concierge."
+        },
+        {
+          "type": "p",
+          "text": "O dado de mercado do mesmo texto: a economia do bem-estar chegou a USD 6,8 trilhões em 2024 e deve chegar a cerca de USD 9,8 trilhões em 2029. O texto não traz nenhum número específico de menopausa, hormônio ou sono em mulheres. A tese é qualitativa, e a menção é de um parágrafo dentro de uma lista de nove."
+        },
+        {
+          "type": "p",
+          "text": "O segundo ponto de contato é o episódio 297 de Diamandis. Úteros artificiais em 24 meses é afirmação de podcast, sem estudo citado na página, e deve ser lida assim. Ainda assim, mostra que a reprodução entrou na pauta de quem fala de singularidade biológica."
+        },
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "4 de 9",
+              "label": "Futuristas monitorados com item datado entre 22/09 e 12/10 (Angelo, Leonhard, FTSG, Diamandis)"
+            },
+            {
+              "value": "1",
+              "label": "Futurista que tocou em saúde da mulher na janela, Lindsay Angelo, em uma de nove tendências"
+            },
+            {
+              "value": "USD 9,8 tri",
+              "label": "Projeção para a economia global do bem-estar em 2029, segundo o texto de Angelo (USD 6,8 tri em 2024)"
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "A pauta feminina entrou pelo lado do consumo, não pelo da tecnologia. Quem fala de bem-estar já escreve que a longevidade é feminina. Quem fala de IA, energia e singularidade segue sem perguntar de quem é o corpo padrão. Para uma marca ou clínica de saúde da mulher, a janela é nomear a categoria antes que ela vire commodity: o argumento de que mulheres envelhecem de outro jeito já está publicado por uma futurista de consumo e ainda não foi apropriado por ninguém do mercado brasileiro."
+        },
+        {
+          "type": "h2",
+          "text": "O que mudou em relação à edição anterior"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Quebrou a sequência de duas edições com zero menção a saúde da mulher. Agora há uma, em Lindsay Angelo, e só uma.",
+            "Subiu de 2 para 4 o número de nomes com item datado. FTSG saiu do silêncio de 24/07 e Diamandis voltou a publicar, com sete episódios depois de uma pausa que vinha de julho.",
+            "Kaku, que publicou em setembro, ficou quieto desde 11/09.",
+            "O NIH e o consórcio da Michigan State, destaque da edição de 21/09, não tiveram novidade nesta janela.",
+            "Seguem sem confirmação: Ian Khan, Metafuture, Fast Future e Kurzweil, todos sem item datado verificável."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "Lindsay Angelo, The Top Nine Wellness Trends 2027, 01/10/2026 (endereço indica 6/10)",
+          "url": "https://lindsayangelo.com/thinkingcont/2026/10/6/top-wellness-trends-2027"
+        },
+        {
+          "label": "Lindsay Angelo, seção Thinking",
+          "url": "https://www.lindsayangelo.com/thinking"
+        },
+        {
+          "label": "Gerd Leonhard, home",
+          "url": "https://gerdleonhard.com"
+        },
+        {
+          "label": "Gerd Leonhard, Where We Stand Today and Where We Must Go, 03/10/2026",
+          "url": "https://gerdleonhard.com/work/where-we-stand-today-and-where-we-must-go-ai-humanity/"
+        },
+        {
+          "label": "FTSG, seção de insights",
+          "url": "https://ftsg.com/insights/"
+        },
+        {
+          "label": "FTSG, What Google's Nuclear Deal Is Really Signaling, 08/10/2026",
+          "url": "https://ftsg.com/what-googles-nuclear-deal-is-really-signaling/"
+        },
+        {
+          "label": "FTSG, Insurance's Role in the AI Ecosystem, 30/09/2026",
+          "url": "https://ftsg.com/insurances-role-in-ai-nvidia/"
+        },
+        {
+          "label": "Peter Diamandis, página de podcast",
+          "url": "https://www.diamandis.com/podcast"
+        },
+        {
+          "label": "Peter Diamandis, EP #297 Ben Lamm, 30/09/2026",
+          "url": "https://www.diamandis.com/podcast/ben-lamm-biological-singularity"
+        },
+        {
+          "label": "Michio Kaku, site oficial",
+          "url": "https://mkaku.org"
+        },
+        {
+          "label": "Ian Khan, site oficial",
+          "url": "https://iankhan.com"
+        },
+        {
+          "label": "Metafuture, Sohail Inayatullah",
+          "url": "https://www.metafuture.org"
+        },
+        {
+          "label": "Fast Future, Rohit Talwar",
+          "url": "https://fastfuture.com"
+        },
+        {
+          "label": "Busca sobre Ray Kurzweil, resultados de segunda mão, não confirmados",
+          "url": "https://ecosistemastartup.com/?p=107722"
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "title": "Dois de nove publicaram, e nenhum falou de mulher",
       "lead": "Na semana de 15 a 21 de setembro, sete dos nove futuristas monitorados não publicaram nada novo. Os dois que publicaram, Gerd Leonhard e Michio Kaku, somam três textos. Nenhum deles menciona saúde da mulher. É a segunda semana seguida com esse resultado, e a repetição já é informação.",
@@ -177,20 +357,53 @@
       "title": "Os futuristas falam de longevidade sem falar do corpo feminino",
       "lead": "Nesta semana, os futuristas mais lidos do mundo convergiram em dois temas: governança de agentes autônomos e prazos de longevidade. Nenhum deles citou saúde da mulher. Essa ausência é o assunto desta edição.",
       "blocks": [
-        { "type": "h2", "text": "O que mudou nesta semana" },
-        { "type": "p", "text": "O movimento mais forte não foi de tecnologia, foi de tom. Os nomes mais lidos do setor pararam de listar tendências e passaram a cobrar decisão e governança." },
+        {
+          "type": "h2",
+          "text": "O que mudou nesta semana"
+        },
+        {
+          "type": "p",
+          "text": "O movimento mais forte não foi de tecnologia, foi de tom. Os nomes mais lidos do setor pararam de listar tendências e passaram a cobrar decisão e governança."
+        },
         {
           "type": "table",
-          "head": ["Data", "Quem", "O que aconteceu"],
+          "head": [
+            "Data",
+            "Quem",
+            "O que aconteceu"
+          ],
           "rows": [
-            ["14/09/2026", "Gerd Leonhard", "Debate na CNN-News18 sobre riscos de agentes autônomos, na linha do ensaio Gradual Disempowerment"],
-            ["Ago/2026", "Ray Kurzweil", "Reafirmou os prazos: AGI em 2029, longevity escape velocity em 2032, singularidade em 2045"],
-            ["24/07/2026", "Future Today Strategy Group", "Análise do incidente de segurança na OpenAI, com foco em comportamento de agente autônomo"],
-            ["19/07/2026", "Peter Diamandis", "Série sobre a corrida de modelos abertos e arquiteturas pós-transformer"],
-            ["2026", "Amy Webb", "O relatório anual de tendências virou Convergence Outlook, reposicionado para decisão em vez de lista"]
+            [
+              "14/09/2026",
+              "Gerd Leonhard",
+              "Debate na CNN-News18 sobre riscos de agentes autônomos, na linha do ensaio Gradual Disempowerment"
+            ],
+            [
+              "Ago/2026",
+              "Ray Kurzweil",
+              "Reafirmou os prazos: AGI em 2029, longevity escape velocity em 2032, singularidade em 2045"
+            ],
+            [
+              "24/07/2026",
+              "Future Today Strategy Group",
+              "Análise do incidente de segurança na OpenAI, com foco em comportamento de agente autônomo"
+            ],
+            [
+              "19/07/2026",
+              "Peter Diamandis",
+              "Série sobre a corrida de modelos abertos e arquiteturas pós-transformer"
+            ],
+            [
+              "2026",
+              "Amy Webb",
+              "O relatório anual de tendências virou Convergence Outlook, reposicionado para decisão em vez de lista"
+            ]
           ]
         },
-        { "type": "h2", "text": "Três leituras que valem guardar" },
+        {
+          "type": "h2",
+          "text": "Três leituras que valem guardar"
+        },
         {
           "type": "ol",
           "items": [
@@ -199,23 +412,44 @@
             "**Foresight virou produto de decisão.** A mudança de formato da Amy Webb é o sinal mais comercial do período: o mercado já não paga por mapa de tendências, paga por escolha informada."
           ]
         },
-        { "type": "h2", "text": "O que isso significa para saúde e bem-estar da mulher" },
-        { "type": "p", "text": "Quando a conversa sobre longevidade acelera, ela acelera sobre a base de dados que existe. E a base de dados clínica sobre o corpo feminino é estruturalmente menor, mais recente e menos representativa. Três números descrevem o tamanho do problema melhor do que qualquer previsão." },
+        {
+          "type": "h2",
+          "text": "O que isso significa para saúde e bem-estar da mulher"
+        },
+        {
+          "type": "p",
+          "text": "Quando a conversa sobre longevidade acelera, ela acelera sobre a base de dados que existe. E a base de dados clínica sobre o corpo feminino é estruturalmente menor, mais recente e menos representativa. Três números descrevem o tamanho do problema melhor do que qualquer previsão."
+        },
         {
           "type": "stats",
           "items": [
-            { "value": "1993", "label": "Ano em que mulheres passaram a ser incluídas de forma sistemática em ensaios clínicos nos Estados Unidos" },
-            { "value": "85%", "label": "Dos estudos pré-clínicos de neurociência usaram apenas sujeitos masculinos" },
-            { "value": "+42%", "label": "Aumento na detecção de infarto em mulheres quando se adotou limiar de troponina específico por sexo, contra 6% em homens" }
+            {
+              "value": "1993",
+              "label": "Ano em que mulheres passaram a ser incluídas de forma sistemática em ensaios clínicos nos Estados Unidos"
+            },
+            {
+              "value": "85%",
+              "label": "Dos estudos pré-clínicos de neurociência usaram apenas sujeitos masculinos"
+            },
+            {
+              "value": "+42%",
+              "label": "Aumento na detecção de infarto em mulheres quando se adotou limiar de troponina específico por sexo, contra 6% em homens"
+            }
           ]
         },
-        { "type": "p", "text": "O exame de troponina nunca foi ruim. Ele estava calibrado para a população errada. Esse é o padrão que se repete em praticamente toda a medicina preditiva, e é ele que será herdado por qualquer sistema de longevidade construído em cima dos dados de hoje." },
+        {
+          "type": "p",
+          "text": "O exame de troponina nunca foi ruim. Ele estava calibrado para a população errada. Esse é o padrão que se repete em praticamente toda a medicina preditiva, e é ele que será herdado por qualquer sistema de longevidade construído em cima dos dados de hoje."
+        },
         {
           "type": "callout",
           "title": "A leitura da Femture",
           "text": "A ausência é o dado. Nenhum dos futuristas monitorados nesta janela tocou em saúde da mulher de forma explícita, enquanto todos falaram de longevidade, diagnóstico e dado clínico. Um sistema que promete estender a vida humana usando bases historicamente masculinas não estende a vida humana, estende a vida de metade dela com mais precisão que a outra."
         },
-        { "type": "h2", "text": "Sinais fracos para acompanhar" },
+        {
+          "type": "h2",
+          "text": "Sinais fracos para acompanhar"
+        },
         {
           "type": "ul",
           "items": [
@@ -226,12 +460,30 @@
         }
       ],
       "sources": [
-        { "label": "Gerd Leonhard, site oficial", "url": "https://gerdleonhard.com/" },
-        { "label": "Ray Kurzweil, Living In The Singularity 2026", "url": "https://medium.com/predict/ray-kurzweil-living-in-the-singularity-2026-34f811d26300" },
-        { "label": "Future Today Strategy Group", "url": "https://ftsg.com/" },
-        { "label": "Moonshots with Peter Diamandis", "url": "https://www.diamandis.com/podcast" },
-        { "label": "Michio Kaku, site oficial", "url": "https://mkaku.org/" },
-        { "label": "Sahha, The State of Women's Health Data in 2026", "url": "https://sahha.ai/blog/femtech-womens-health-data/" }
+        {
+          "label": "Gerd Leonhard, site oficial",
+          "url": "https://gerdleonhard.com/"
+        },
+        {
+          "label": "Ray Kurzweil, Living In The Singularity 2026",
+          "url": "https://medium.com/predict/ray-kurzweil-living-in-the-singularity-2026-34f811d26300"
+        },
+        {
+          "label": "Future Today Strategy Group",
+          "url": "https://ftsg.com/"
+        },
+        {
+          "label": "Moonshots with Peter Diamandis",
+          "url": "https://www.diamandis.com/podcast"
+        },
+        {
+          "label": "Michio Kaku, site oficial",
+          "url": "https://mkaku.org/"
+        },
+        {
+          "label": "Sahha, The State of Women's Health Data in 2026",
+          "url": "https://sahha.ai/blog/femtech-womens-health-data/"
+        }
       ]
     }
   ]
