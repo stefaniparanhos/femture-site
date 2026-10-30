@@ -2,6 +2,364 @@
   "radar": "femtechs",
   "editions": [
     {
+      "date": "2026-10-30",
+      "title": "O capital migrou para menopausa e saúde hormonal, e o Brasil não apareceu",
+      "lead": "Quinze movimentos novos no mundo entre 22/09 e 30/10, com a maior mudança desde a edição de 21/09: plataformas de saúde hormonal e menopausa (Allara, NABTA, Flouria) passaram a dividir o cheque com fertilidade e microbioma. No Brasil e na América Latina, nenhum movimento de femtech foi encontrado na janela.",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Quem se mexeu no mundo"
+        },
+        {
+          "type": "p",
+          "text": "Edição mensal, janela de 22/09 a 30/10. Os itens abaixo são novos em relação à edição de 21/09. Onde a fonte não informa o país da empresa, está escrito que não confirmei, e não deduzi pela moeda da rodada. Itens da FemTech World sem data visível na página (a venda da Gameto à Ferring, de até USD 1,38 bi, a Precisio Biotix e a TFP Fertility) ficaram de fora até ter data confirmada."
+        },
+        {
+          "type": "table",
+          "head": [
+            "Data",
+            "Empresa ou instituição",
+            "País",
+            "O que faz",
+            "Movimento"
+          ],
+          "rows": [
+            [
+              "30/10",
+              "Oova e Oura",
+              "Não confirmei",
+              "Teste hormonal domiciliar (Oova) e anel de monitoramento de sono (Oura), em piloto sobre ciclo e recuperação",
+              "Piloto com 6 pessoas e 375 dias de dados: os piores escores de sono e prontidão aparecem perto do pico de LH. Exploratório, sem teste de significância. Frente: menstrual"
+            ],
+            [
+              "28/10",
+              "Willow",
+              "Estados Unidos (Mountain View, Califórnia)",
+              "Bomba de leite vestível e aplicativo de cuidado materno",
+              "Comprou a Swehl e a Momtech (país dos dois não confirmado), valores não divulgados. Frente: reprodutivo, pós-natal"
+            ],
+            [
+              "21/10",
+              "Equipe de pesquisadores (instituição não nomeada na manchete)",
+              "Reino Unido",
+              "IA para investigar recorrência de câncer de mama",
+              "GBP 800 mil. Frente: oncologia"
+            ],
+            [
+              "20/10",
+              "NABTA Health",
+              "Emirados Árabes Unidos (Dubai)",
+              "Plataforma preventiva com exames domiciliares, consulta virtual e assistente de IA para fertilidade, gravidez e menopausa",
+              "USD 3 mi, pré-Série A (segundo fechamento), Phoenix Venture Partners. Frente: reprodutivo e menopausa"
+            ],
+            [
+              "20/10",
+              "Governo dos Estados Unidos",
+              "Estados Unidos",
+              "Decreto cria uma divisão de saúde da mulher no NIH",
+              "Ato de política pública, sem valor informado na manchete"
+            ],
+            [
+              "19/10",
+              "IDA Sports",
+              "Não confirmei",
+              "Vestuário e calçados para atletas mulheres",
+              "USD 3 mi. Fronteira do recorte, é produto de desempenho e não clínico"
+            ],
+            [
+              "13/10",
+              "Allara",
+              "Não confirmei",
+              "Plataforma virtual de saúde hormonal, metabólica e reprodutiva, com reposição hormonal e cobertura de plano de saúde",
+              "USD 30 mi, total de USD 75 mi. Index Ventures e GV já eram investidores, entram Camino Partners, Foreground e Family Fund. Frente: menopausa e menstrual"
+            ],
+            [
+              "08/10",
+              "Healthy Moms Healthy Babies America",
+              "Estados Unidos",
+              "Iniciativa de saúde materna",
+              "USD 20 mi concedidos em prêmios. Em setembro a edição registrou compromisso de USD 100 mi da mesma campanha. Frente: reprodutivo"
+            ],
+            [
+              "05/10",
+              "Freyya",
+              "Não confirmei",
+              "Monitor contínuo de assoalho pélvico em formato de absorvente interno, com biossensores",
+              "Pré-seed, valor não divulgado, liderado pela Alamo Angels. Fundada em 2023. Frente: assoalho pélvico"
+            ],
+            [
+              "05/10",
+              "GLORIAH",
+              "Não confirmei (a manchete cita crescimento no Reino Unido e expansão nos EUA)",
+              "Marca de bem-estar íntimo",
+              "GBP 600 mil. Frente: sexual"
+            ],
+            [
+              "02/10",
+              "Flouria Health",
+              "Não confirmei a sede. Atua nos Países Baixos e expande na Europa",
+              "Clínica digital para perimenopausa, PMOS e recuperação pós-parto, mais de 1.000 pacientes desde 2025",
+              "Valor da rodada não informado, total de EUR 1,5 mi, investidor Healthy.Capital. Frente: menopausa e menstrual"
+            ],
+            [
+              "01/10",
+              "Biotia",
+              "Não confirmei (tem laboratório em Nova York)",
+              "Teste de urina por sequenciamento para infecção urinária recorrente, com 97% de sensibilidade e 99% de especificidade declaradas",
+              "USD 9 mi, investidores como Convergent Ventures e DigitalDx Ventures. Frente: fronteira do recorte, a fonte não enquadra como saúde da mulher"
+            ],
+            [
+              "29/09",
+              "Tiny Health",
+              "Não confirmei",
+              "Microbioma intestinal e vaginal por sequenciamento, perto de 200 mil pacientes e 6 mil profissionais",
+              "USD 33 mi, Série B liderada pela B Capital, total de USD 46 mi. Frente: vaginal, reprodutivo"
+            ],
+            [
+              "29/09",
+              "Breast Cancer Research Foundation",
+              "Não confirmei",
+              "Programa de venture para câncer de mama",
+              "USD 100 mi. Frente: oncologia"
+            ],
+            [
+              "22/09",
+              "Bird&Be",
+              "Não confirmei",
+              "Suplementos e testes de fertilidade",
+              "USD 13 mi (só a listagem foi lida, sem detalhe de investidores). Frente: reprodutivo"
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "O que apareceu fora do reprodutivo"
+        },
+        {
+          "type": "p",
+          "text": "O recorte do radar inclui qualquer condição que afeta mulheres de forma exclusiva, mais frequente ou pior diagnosticada. Fora do eixo reprodutivo, íntimo e hormonal, a janela trouxe três sinais, nenhum deles uma rodada de startup."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**Neurodivergência e menopausa.** Em 28/10, um estudo noticiado pela FemTech World apontou que mulheres autistas têm sintomas de menopausa mais severos. Só li a manchete. É pesquisa, não empresa, mas encosta no eixo central de subdiagnóstico.",
+            "**Cuidado e carga mental.** Em 27/10, a mesma fonte noticiou que a lacuna de cuidado cresce porque mulheres dedicam mais anos a adultos idosos. Também só a manchete foi lida.",
+            "**Oncologia de mama.** Os GBP 800 mil para IA de recorrência (21/10) e o programa de USD 100 mi da Breast Cancer Research Foundation (29/09) mostram dinheiro filantrópico e acadêmico, mais do que capital de risco."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Nas listagens lidas, não vi rodada de startup em doença autoimune, cardiovascular feminina, osteoporose, Alzheimer, enxaqueca, dor crônica, fibromialgia, TDAH ou autismo em mulheres. É a mesma lacuna da edição anterior. Ressalva: li as páginas de listagem de Femtech Insider e FemTech World, não cada notícia, então um item fora desse perímetro pode ter escapado."
+        },
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "15",
+              "label": "Movimentos datados no mundo entre 22/09 e 30/10, incluindo um decreto, uma premiação e dois programas filantrópicos"
+            },
+            {
+              "value": "3",
+              "label": "Plataformas de saúde hormonal ou menopausa com dinheiro novo: Allara (USD 30 mi), NABTA (USD 3 mi) e Flouria (valor não informado)"
+            },
+            {
+              "value": "0",
+              "label": "Movimentos de femtech encontrados no Brasil e na América Latina na janela"
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Brasil e América Latina"
+        },
+        {
+          "type": "p",
+          "text": "Nesta janela não encontrei nenhum movimento de femtech no Brasil nem na América Latina. Não preenchi o bloco com notícia antiga."
+        },
+        {
+          "type": "p",
+          "text": "Onde procurei, e o que cada fonte deu:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "**Contxto**: o único item de healthtech foi a Alice (Brasil), rodada Série D de USD 40 mi em 23/10. Não é saúde da mulher e não entrou.",
+            "**LAVCA**: sem item de saúde da mulher. Os itens de saúde eram de 08/10, sobre pesquisa clínica e residências para idosos.",
+            "**NeoFeed (Startups), Brazil Journal, Bloomberg Línea Brasil, Exame (Negócios), Abstartups**: nenhum item de saúde da mulher ou femtech nas páginas abertas. Em alguns, as datas não aparecem em formato absoluto, o que limita a checagem.",
+            "**Distrito (blog)**: posts de outubro e setembro sobre IA, nenhum sobre femtech. O relatório em materiais.distrito.me/report não foi aberto.",
+            "**Startupi**: a busca por femtech devolveu bloqueio (403) e os resultados do buscador eram antigos.",
+            "**Revista Pequenas Empresas e Grandes Negócios**: o site não pôde ser aberto.",
+            "**Buscas em português** por femtech, saúde da mulher, menopausa e endometriose startup: só resultados antigos, nenhum de outubro de 2026."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Um ajuste sobre a edição de 21/09. Ela afirmou que as duas matérias mais recentes da editoria Femtech do startups.com.br eram de 2024. A releitura mostra mais material: a Plinq (segurança de mulheres, Brasil, 11/03/2026), o app Raquel Menopausa (Brasil, 26/01/2026), a Feel (Brasil, 08/09/2025), a See Me (Brasil, 23/06/2025) e a Plenapausa (Brasil, 06/08/2024). Todos são anteriores à janela e por isso não contam como movimento, mas a editoria não está parada desde 2024, como eu havia escrito. O que segue valendo: nada recente."
+        },
+        {
+          "type": "p",
+          "text": "Sobre a Diagnostictech, o Detector Ionizográfico de nódulos mamários do Piauí citado em setembro, não encontrei novidade nesta janela."
+        },
+        {
+          "type": "h2",
+          "text": "O que mudou em relação à edição de 21/09"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Menopausa e saúde hormonal ganharam capital de plataforma. Em setembro, a menopausa tinha só um suplemento e uma audiência no Congresso americano. Agora há Allara, NABTA e Flouria, além do decreto do NIH em 20/10.",
+            "O microbioma continua atraindo dinheiro grande: depois da Evvy (USD 40 mi), a Tiny Health levantou USD 33 mi.",
+            "O eixo reprodutivo segue ativo, com Bird&Be, Willow e a campanha Healthy Moms Healthy Babies America.",
+            "Fora do reprodutivo, a lacuna é a mesma: sem rodada em autoimune, cardiovascular feminino, osteoporose ou neurodivergência.",
+            "No Brasil, a edição de 21/09 teve um movimento (Diagnostictech). Esta não teve nenhum."
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "A leitura da Femture",
+          "text": "O dinheiro está seguindo a mulher mais velha. Allara, NABTA e Flouria vendem cuidado hormonal e menopausa, o mesmo território que o Congresso e o NIH abriram nas últimas semanas. Para quem atua no Brasil, é uma janela: as femtechs brasileiras de menopausa que aparecem nas coberturas anteriores, como Plenapausa e Raquel Menopausa, não tiveram rodada anunciada, e a América Latina não apareceu em nenhuma das fontes. A lacuna fora do reprodutivo continua inteira."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Femtech Insider, categoria Investimento",
+          "url": "https://femtechinsider.com/category/investment/"
+        },
+        {
+          "label": "Femtech Insider, Allara levanta USD 30 mi, 13/10/2026",
+          "url": "https://femtechinsider.com/allara-raises-30m-to-expand-insurance-covered-womens-healthcare/"
+        },
+        {
+          "label": "Femtech Insider, Tiny Health levanta USD 33 mi, 29/09/2026",
+          "url": "https://femtechinsider.com/tiny-health-raises-33m-to-scale-microbiome-intelligence-across-the-lifespan/"
+        },
+        {
+          "label": "Femtech Insider, Biotia levanta USD 9 mi, 01/10/2026",
+          "url": "https://femtechinsider.com/biotia-secures-9m-to-scale-testing-for-chronic-utis/"
+        },
+        {
+          "label": "Femtech Insider, Freyya, 05/10/2026",
+          "url": "https://femtechinsider.com/freyya-secures-funding-to-bring-pelvic-floor-monitor-to-market/"
+        },
+        {
+          "label": "Femtech Insider, NABTA Health, 20/10/2026",
+          "url": "https://femtechinsider.com/nabta-health-secures-funding-for-ai-assisted-womens-healthcare/"
+        },
+        {
+          "label": "Femtech Insider, Flouria Health, 02/10/2026",
+          "url": "https://femtechinsider.com/flouria-health-raises-funding-to-scale-womens-hormonal-health-platform/"
+        },
+        {
+          "label": "Femtech Insider, GLORIAH, 05/10/2026",
+          "url": "https://femtechinsider.com/gloriah-raises-600k-to-scale-intimate-wellness-brand/"
+        },
+        {
+          "label": "Femtech Insider, IDA Sports, 19/10/2026",
+          "url": "https://femtechinsider.com/ida-sports-raises-3m-to-expand-apparel-and-footwear-for-female-athletes/"
+        },
+        {
+          "label": "Femtech Insider, Bird&Be, 22/09/2026",
+          "url": "https://femtechinsider.com/birdbe-raises-13m-to-scale-fertility-supplements-and-tests/"
+        },
+        {
+          "label": "Femtech Insider, Healthy Moms Healthy Babies America, 08/10/2026",
+          "url": "https://femtechinsider.com/healthy-moms-healthy-babies-america-awards-20m-to-improve-maternal-healthcare/"
+        },
+        {
+          "label": "Femtech Insider, Breast Cancer Research Foundation, 29/09/2026",
+          "url": "https://femtechinsider.com/breast-cancer-research-foundation-launches-100m-venture-program/"
+        },
+        {
+          "label": "FemTech World, página inicial",
+          "url": "https://www.femtechworld.co.uk/"
+        },
+        {
+          "label": "FemTech World, Willow compra Swehl e Momtech, 28/10/2026",
+          "url": "https://www.femtechworld.co.uk/news/fertility-news/willow-acquires-swehl-and-momtech-to-expand-maternal-health-offering/"
+        },
+        {
+          "label": "FemTech World, Oova e Oura, 30/10/2026",
+          "url": "https://www.femtechworld.co.uk/news/hormonal-health/oova-and-oura-pilot-links-menstrual-hormones-with-sleep-and-recovery/"
+        },
+        {
+          "label": "FemTech World, pesquisadores do Reino Unido, GBP 800 mil, 21/10/2026",
+          "url": "https://www.femtechworld.co.uk/news/cancer/uk-researchers-secure-800k-to-investigate-breast-cancer-recurrence-using-ai/"
+        },
+        {
+          "label": "FemTech World, decreto cria divisão de saúde da mulher no NIH, 20/10/2026",
+          "url": "https://www.femtechworld.co.uk/news-topics/policy-regulation/trump-signs-executive-order-to-establish-nih-womens-health-division/"
+        },
+        {
+          "label": "FemTech World, mulheres autistas e menopausa, 28/10/2026",
+          "url": "https://www.femtechworld.co.uk/menopause/autistic-women-experience-more-severe-menopausal-symptoms-study/"
+        },
+        {
+          "label": "FemTech World, lacuna de cuidado com idosos, 27/10/2026",
+          "url": "https://www.femtechworld.co.uk/news/ageing/caregiving-gap-grows-as-women-devote-more-years-to-aging-adults/"
+        },
+        {
+          "label": "Future Fem Health",
+          "url": "https://www.futurefemhealth.com"
+        },
+        {
+          "label": "startups.com.br, editoria Femtech",
+          "url": "https://startups.com.br/negocios/femtech/"
+        },
+        {
+          "label": "startups.com.br, Plinq, 11/03/2026",
+          "url": "https://startups.com.br/negocios/femtech/ceo-da-lovable-faz-1o-aporte-no-brasil-em-startup-de-seguranca-para-mulheres/"
+        },
+        {
+          "label": "startups.com.br, Raquel Menopausa, 26/01/2026",
+          "url": "https://startups.com.br/negocios/empreendedora-cria-startup-de-saude-feminina-para-apoiar-mulheres-na-menopausa/"
+        },
+        {
+          "label": "startups.com.br, Feel, 08/09/2025",
+          "url": "https://startups.com.br/negocios/femtech/feel-dobra-portfolio-e-mira-expansao-para-canais-fisicos/"
+        },
+        {
+          "label": "startups.com.br, See Me, 23/06/2025",
+          "url": "https://startups.com.br/negocios/femtech/femtech-brasileira-lanca-autoexame-para-ampliar-cuidado-com-saude-intima/"
+        },
+        {
+          "label": "startups.com.br, Plenapausa, 06/08/2024",
+          "url": "https://startups.com.br/negocios/femtech/plenapausa-amplia-modelo-para-ser-dr-consulta-da-menopausa/"
+        },
+        {
+          "label": "Contxto",
+          "url": "https://contxto.com/"
+        },
+        {
+          "label": "LAVCA",
+          "url": "https://lavca.org/"
+        },
+        {
+          "label": "NeoFeed, Startups",
+          "url": "https://neofeed.com.br/startups/"
+        },
+        {
+          "label": "Brazil Journal",
+          "url": "https://braziljournal.com/"
+        },
+        {
+          "label": "Bloomberg Línea Brasil",
+          "url": "https://www.bloomberglinea.com.br/"
+        },
+        {
+          "label": "Abstartups",
+          "url": "https://abstartups.com.br/"
+        },
+        {
+          "label": "Exame, Negócios",
+          "url": "https://exame.com/negocios/"
+        },
+        {
+          "label": "Distrito, blog",
+          "url": "https://distrito.me/blog/"
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "title": "O capital comprou reprodutivo de novo, e o Piauí entrou pela oncologia",
       "lead": "Dez movimentos novos no mundo entre 8 e 21 de setembro, quase todos concentrados em saúde reprodutiva e íntima. Fora desse eixo apareceu pouco, e o pouco é pequeno. No Brasil, a semana foi vazia, com uma exceção que vale por muitas: uma deep tech piauiense de detecção de câncer de mama.",
@@ -222,36 +580,146 @@
       "title": "Treze movimentos em setembro, e nenhum app de ciclo",
       "lead": "A femtech teve treze movimentos relevantes em setembro de 2026, seis deles nos últimos oito dias. Oito são clínicos ou diagnósticos. Aplicativo de rastreamento de ciclo, que foi a cara da categoria por uma década, não aparece nenhuma vez.",
       "blocks": [
-        { "type": "h2", "text": "Quem se mexeu" },
-        { "type": "p", "text": "O volume está alto e o ticket médio está baixo, o que descreve um setor com muita entrada nova e pouca consolidação. A distribuição geográfica também chama atenção: nove países diferentes em um único mês, com forte presença nórdica." },
+        {
+          "type": "h2",
+          "text": "Quem se mexeu"
+        },
+        {
+          "type": "p",
+          "text": "O volume está alto e o ticket médio está baixo, o que descreve um setor com muita entrada nova e pouca consolidação. A distribuição geográfica também chama atenção: nove países diferentes em um único mês, com forte presença nórdica."
+        },
         {
           "type": "table",
-          "head": ["Data", "Empresa", "País", "O que faz", "Movimento"],
+          "head": [
+            "Data",
+            "Empresa",
+            "País",
+            "O que faz",
+            "Movimento"
+          ],
           "rows": [
-            ["17/09", "Induvita", "Noruega", "Modernização do cuidado ginecológico", "NOK 7,5 mi"],
-            ["16/09", "Aitiologic", "Áustria (Viena)", "Biópsia líquida para risco de pré-eclâmpsia no primeiro trimestre", "EUR 6,4 mi, liderados por Heal Capital e Ananda Impact Ventures"],
-            ["16/09", "Sylvia Health", "Dinamarca (Copenhague)", "Dispositivo para prolapso de órgãos pélvicos", "EUR 560 mil"],
-            ["14/09", "Ananya Health", "Estados Unidos", "Crioablação portátil para lesões pré-cancerosas do colo do útero", "USD 100 mil, da EHA Impact Ventures"],
-            ["11/09", "Healthy Moms, Healthy Babies America", "Estados Unidos", "Campanha para reduzir pela metade a mortalidade materna no país", "USD 100 mi comprometidos"],
-            ["10/09", "Nua", "Índia (Mumbai)", "Cuidado menstrual, higiene íntima e maternidade, com mais de 3 mi de clientes por mês", "USD 50 mi, Série C liderada por Peak XV Partners e Filter Capital"],
-            ["09/09", "DNB", "Noruega", "Banco tradicional lançando fundo global de saúde da mulher", "Novo fundo"],
-            ["08/09", "Mensis", "Dinamarca", "Biossensor vestível de coleta contínua de dados hormonais", "DKK 760 mil"],
-            ["03/09", "ProvanAI", "Estados Unidos (St. Louis)", "Previsão de risco de câncer de ovário a partir de mamografia, spinout da WashU", "USD 1,2 mi"],
-            ["02/09", "iPremom", "Espanha (Valência)", "Diagnóstico molecular para prever complicações na gestação", "EUR 15 mi"],
-            ["01/09", "KOVE Medical", "Suíça (Zurique)", "Dispositivo para reduzir risco de parto prematuro após cirurgia fetal", "CHF 1,6 mi"],
-            ["01/09", "Peripear", "Reino Unido", "Dispositivo para prevenir laceração perineal no parto", "GBP 1,2 mi"]
+            [
+              "17/09",
+              "Induvita",
+              "Noruega",
+              "Modernização do cuidado ginecológico",
+              "NOK 7,5 mi"
+            ],
+            [
+              "16/09",
+              "Aitiologic",
+              "Áustria (Viena)",
+              "Biópsia líquida para risco de pré-eclâmpsia no primeiro trimestre",
+              "EUR 6,4 mi, liderados por Heal Capital e Ananda Impact Ventures"
+            ],
+            [
+              "16/09",
+              "Sylvia Health",
+              "Dinamarca (Copenhague)",
+              "Dispositivo para prolapso de órgãos pélvicos",
+              "EUR 560 mil"
+            ],
+            [
+              "14/09",
+              "Ananya Health",
+              "Estados Unidos",
+              "Crioablação portátil para lesões pré-cancerosas do colo do útero",
+              "USD 100 mil, da EHA Impact Ventures"
+            ],
+            [
+              "11/09",
+              "Healthy Moms, Healthy Babies America",
+              "Estados Unidos",
+              "Campanha para reduzir pela metade a mortalidade materna no país",
+              "USD 100 mi comprometidos"
+            ],
+            [
+              "10/09",
+              "Nua",
+              "Índia (Mumbai)",
+              "Cuidado menstrual, higiene íntima e maternidade, com mais de 3 mi de clientes por mês",
+              "USD 50 mi, Série C liderada por Peak XV Partners e Filter Capital"
+            ],
+            [
+              "09/09",
+              "DNB",
+              "Noruega",
+              "Banco tradicional lançando fundo global de saúde da mulher",
+              "Novo fundo"
+            ],
+            [
+              "08/09",
+              "Mensis",
+              "Dinamarca",
+              "Biossensor vestível de coleta contínua de dados hormonais",
+              "DKK 760 mil"
+            ],
+            [
+              "03/09",
+              "ProvanAI",
+              "Estados Unidos (St. Louis)",
+              "Previsão de risco de câncer de ovário a partir de mamografia, spinout da WashU",
+              "USD 1,2 mi"
+            ],
+            [
+              "02/09",
+              "iPremom",
+              "Espanha (Valência)",
+              "Diagnóstico molecular para prever complicações na gestação",
+              "EUR 15 mi"
+            ],
+            [
+              "01/09",
+              "KOVE Medical",
+              "Suíça (Zurique)",
+              "Dispositivo para reduzir risco de parto prematuro após cirurgia fetal",
+              "CHF 1,6 mi"
+            ],
+            [
+              "01/09",
+              "Peripear",
+              "Reino Unido",
+              "Dispositivo para prevenir laceração perineal no parto",
+              "GBP 1,2 mi"
+            ]
           ]
         },
-        { "type": "h2", "text": "Onde o capital está entrando" },
-        { "type": "p", "text": "O movimento mais estrutural de agosto e setembro não foi rodada de startup, foi criação de veículo de investimento. Quatro fundos novos dedicados a saúde da mulher em seis semanas." },
+        {
+          "type": "h2",
+          "text": "Onde o capital está entrando"
+        },
+        {
+          "type": "p",
+          "text": "O movimento mais estrutural de agosto e setembro não foi rodada de startup, foi criação de veículo de investimento. Quatro fundos novos dedicados a saúde da mulher em seis semanas."
+        },
         {
           "type": "table",
-          "head": ["Data", "Veículo", "Tamanho"],
+          "head": [
+            "Data",
+            "Veículo",
+            "Tamanho"
+          ],
           "rows": [
-            ["09/09/2026", "DNB, banco norueguês, fundo global de saúde da mulher", "Sem valor divulgado"],
-            ["26/08/2026", "Capital F, fundo de estreia", "USD 17 mi"],
-            ["13/08/2026", "Next Phase Femtech", "EUR 1,6 mi"],
-            ["06/08/2026", "Cross-Border Impact Ventures, Fundo II de saúde de mulheres e crianças", "USD 58 mi"]
+            [
+              "09/09/2026",
+              "DNB, banco norueguês, fundo global de saúde da mulher",
+              "Sem valor divulgado"
+            ],
+            [
+              "26/08/2026",
+              "Capital F, fundo de estreia",
+              "USD 17 mi"
+            ],
+            [
+              "13/08/2026",
+              "Next Phase Femtech",
+              "EUR 1,6 mi"
+            ],
+            [
+              "06/08/2026",
+              "Cross-Border Impact Ventures, Fundo II de saúde de mulheres e crianças",
+              "USD 58 mi"
+            ]
           ]
         },
         {
@@ -259,14 +727,29 @@
           "title": "A leitura da Femture",
           "text": "A femtech ainda recebe cerca de 3% do gasto de digital health. O setor está criando estrutura de capital própria justamente porque não consegue espaço na estrutura geral. Isso é sinal de amadurecimento, não de bolha."
         },
-        { "type": "h2", "text": "Brasil e América Latina" },
-        { "type": "p", "text": "Nenhuma empresa brasileira ou latino-americana aparece na lista global acima, e isso não é acaso. O Brasil ainda lidera o mapa regional, mas está perdendo participação. O ecossistema latino-americano cresceu cerca de 40% em um ano, de 70 startups em nove países em 2025 para 98 empresas em dez países em 2026." },
+        {
+          "type": "h2",
+          "text": "Brasil e América Latina"
+        },
+        {
+          "type": "p",
+          "text": "Nenhuma empresa brasileira ou latino-americana aparece na lista global acima, e isso não é acaso. O Brasil ainda lidera o mapa regional, mas está perdendo participação. O ecossistema latino-americano cresceu cerca de 40% em um ano, de 70 startups em nove países em 2025 para 98 empresas em dez países em 2026."
+        },
         {
           "type": "stats",
           "items": [
-            { "value": "38%", "label": "Participação do Brasil nas startups da região, contra cerca de 50% antes" },
-            { "value": "59%", "label": "Das startups pesquisadas foram fundadas exclusivamente por mulheres, e outras 20% por times mistos" },
-            { "value": "3", "label": "Empresas de saúde mental e 3 de detecção de câncer de mama em toda a América Latina" }
+            {
+              "value": "38%",
+              "label": "Participação do Brasil nas startups da região, contra cerca de 50% antes"
+            },
+            {
+              "value": "59%",
+              "label": "Das startups pesquisadas foram fundadas exclusivamente por mulheres, e outras 20% por times mistos"
+            },
+            {
+              "value": "3",
+              "label": "Empresas de saúde mental e 3 de detecção de câncer de mama em toda a América Latina"
+            }
           ]
         },
         {
@@ -278,7 +761,10 @@
             "A concentração regional está em saúde reprodutiva e menstrual, enquanto o capital global desta mesma quinzena foi quase todo para diagnóstico e clínica. O Brasil está um ciclo atrás dessa virada."
           ]
         },
-        { "type": "h2", "text": "Cinco teses que se repetem" },
+        {
+          "type": "h2",
+          "text": "Cinco teses que se repetem"
+        },
         {
           "type": "ol",
           "items": [
@@ -289,18 +775,48 @@
             "**Evidência como barreira de entrada.** Confiança e evidência viraram chave de acesso a mercado, e assistentes de IA em saúde entram em área de regulação crescente. Quem fizer promessa clínica sem dado vai parar antes de escalar."
           ]
         },
-        { "type": "p", "text": "Há um alerta embutido nessa lista: o crescimento de funding convive com um penhasco na Série B. Muita empresa entra, poucas atravessam. A promessa de aplicativo que entende a mulher virou commodity. O que vira ativo defensável é dado clínico proprietário e validação." }
+        {
+          "type": "p",
+          "text": "Há um alerta embutido nessa lista: o crescimento de funding convive com um penhasco na Série B. Muita empresa entra, poucas atravessam. A promessa de aplicativo que entende a mulher virou commodity. O que vira ativo defensável é dado clínico proprietário e validação."
+        }
       ],
       "sources": [
-        { "label": "Femtech Insider, seção de investimento", "url": "https://femtechinsider.com/category/investment/" },
-        { "label": "FutureFemHealth, edição sobre o fundo do DNB", "url": "https://www.futurefemhealth.com/p/mainstream-bank-launches-womens-health" },
-        { "label": "Aitiologic, anúncio da rodada seed de EUR 6,4 mi", "url": "https://www.globenewswire.com/news-release/2026/09/15/3361783/0/en/aitiologic-raises-6-4-million-in-oversubscribed-seed-financing-to-advance-tissue-resolved-liquid-biopsy-platform-and-preeclampsia-lead-program.html" },
-        { "label": "Tech.eu, sobre a Sylvia Health", "url": "https://tech.eu/2025/10/06/sylvia-health-takes-on-a-global-womens-health-crisis/" },
-        { "label": "Femtech Insider, sobre a rodada da Nua", "url": "https://femtechinsider.com/nua-secures-50m-to-scale-feminine-hygiene-business/" },
-        { "label": "Venture Kick, sobre a KOVE Medical", "url": "https://www.venturekick.ch/KOVE-medical-raises-CHF-16-million-to-make-fetal-surgery-safer" },
-        { "label": "New Market Pitch, lista de deals de femtech", "url": "https://newmarketpitch.com/blogs/news/femtech-list-deals" },
-        { "label": "Forbes, FemTech Latam 2026", "url": "https://www.forbes.com.ec/negocios/femtech-latam-2026-como-donde-donde-crece-mapa-regional-n93211" },
-        { "label": "Mexico Business, apostas globais de femtech em LatAm", "url": "https://mexicobusiness.news/health/news/smart-money-2026-10-global-femtech-bets-latam-and-mexico" }
+        {
+          "label": "Femtech Insider, seção de investimento",
+          "url": "https://femtechinsider.com/category/investment/"
+        },
+        {
+          "label": "FutureFemHealth, edição sobre o fundo do DNB",
+          "url": "https://www.futurefemhealth.com/p/mainstream-bank-launches-womens-health"
+        },
+        {
+          "label": "Aitiologic, anúncio da rodada seed de EUR 6,4 mi",
+          "url": "https://www.globenewswire.com/news-release/2026/09/15/3361783/0/en/aitiologic-raises-6-4-million-in-oversubscribed-seed-financing-to-advance-tissue-resolved-liquid-biopsy-platform-and-preeclampsia-lead-program.html"
+        },
+        {
+          "label": "Tech.eu, sobre a Sylvia Health",
+          "url": "https://tech.eu/2025/10/06/sylvia-health-takes-on-a-global-womens-health-crisis/"
+        },
+        {
+          "label": "Femtech Insider, sobre a rodada da Nua",
+          "url": "https://femtechinsider.com/nua-secures-50m-to-scale-feminine-hygiene-business/"
+        },
+        {
+          "label": "Venture Kick, sobre a KOVE Medical",
+          "url": "https://www.venturekick.ch/KOVE-medical-raises-CHF-16-million-to-make-fetal-surgery-safer"
+        },
+        {
+          "label": "New Market Pitch, lista de deals de femtech",
+          "url": "https://newmarketpitch.com/blogs/news/femtech-list-deals"
+        },
+        {
+          "label": "Forbes, FemTech Latam 2026",
+          "url": "https://www.forbes.com.ec/negocios/femtech-latam-2026-como-donde-donde-crece-mapa-regional-n93211"
+        },
+        {
+          "label": "Mexico Business, apostas globais de femtech em LatAm",
+          "url": "https://mexicobusiness.news/health/news/smart-money-2026-10-global-femtech-bets-latam-and-mexico"
+        }
       ]
     }
   ]
